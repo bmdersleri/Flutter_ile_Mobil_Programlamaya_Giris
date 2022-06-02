@@ -1,0 +1,160 @@
+import 'package:flutter/material.dart';
+
+import 'constans.dart';
+
+void main() => runApp(BilgiTesti());
+
+class BilgiTesti extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+        home: Scaffold(
+            backgroundColor: Colors.yellow[700],
+            body: SafeArea(
+                child: Padding(
+                  padding: EdgeInsets.symmetric(horizontal: 10.0),
+                  child: SoruSayfasi(),
+                ))));
+  }
+}
+
+class SoruSayfasi extends StatefulWidget {
+  @override
+  _SoruSayfasiState createState() => _SoruSayfasiState();
+}
+
+class _SoruSayfasiState extends State<SoruSayfasi> {
+  List<Widget> secimler = [];
+  List<String> sorular = [
+    '1. Mehmet Akif Ersoy İstiklal Marşı telif ödülünü Darülfünun kurumuna bağışlamıştır.', //Y
+    '2. Bir sebepten dolayı tek kulağına küpe takan Osmanlı padişahı Yavuz Sultan Selimdir.', //D
+    '3. Dünya Sağlık Örgütünün kısaltılmış hali UHW şeklindedir.', //Y
+    '4. Osmanlı ilk dış borcunu Kırım Savaşı başlangıcında İngiltereden almıştır.', //D
+    '5. Isı termometre ile ölçülür.', //Y
+    '6. Kanadanın başkenti Torontodur.', //Y
+    '7. Güney Afrikanın üç başkenti vardır.', //D
+    '8. Facebook Harvard Üniversitesinde kurulmuştur.', //D
+    '9. Eurovisionda Türkiyeyi ilk olarak, Petrol şarkısıyla Ajda Pekkan temsil etmiştir.', //Y
+    '10. Su periyodik tabloda bulunan bir element değildir.', //D
+    '11. Dünyaya en yakın yıldız Venüstür.', //Y
+    '12. Dünyanın en büyük gölü Hazar Denizidir.', //D
+    '13. Hâr-ı Bülbül yanlızca Azerbaycan/Şuşada yetişir.', //D
+    '14. Rusyanın 18.876.345 kilometrekarelik bir alanı kapladığı biliniyor.', //Y
+    '15. Asya dünyanın en büyük ve en yüksek kıtasıdır.', //D
+    '16. En soğuk gezegen Satürndür.', //Y
+    '17. Lityumun erime noktası 178,9 °C`dir.', //Y
+    '18. Ağrı Dağının yüksekliği 5.137 metredir.', //D
+    '19. İnsan vücudunda 7-8 litre kan bulunur.', //Y
+    '20. Apple şirketinin kurucularından biri Steve Wozniak’tır.', //D
+
+
+  ];
+  List <bool> yanitlar=[false,true,false,true,false,
+    false,true,true,false,true,
+    false,true,true,false,true,
+    false,false,true,false,true,
+
+  ];
+  int soruIndex=0 ;
+
+  @override
+  Widget build(BuildContext context) {
+    return Column(
+      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+      crossAxisAlignment: CrossAxisAlignment.stretch,
+      children: <Widget>[
+        Expanded(
+          flex: 4,
+          child: Padding(
+            padding: EdgeInsets.all(10.0),
+            child: Center(
+              child: Text(
+                sorular[soruIndex],
+                textAlign: TextAlign.center,
+                style: TextStyle(
+                  fontSize: 20.0,
+                  color: Colors.black,
+                ),
+              ),
+            ),
+          ),
+        ),
+        Wrap(
+          alignment: WrapAlignment.center,
+          spacing: 5,
+          runSpacing: 5,
+          children: secimler,
+        ),
+        Expanded(
+          flex: 1,
+          child: Padding(
+              padding: EdgeInsets.symmetric(horizontal: 6.0),
+              child: Row(children: <Widget>[
+                Expanded(
+                    child: Padding(
+                        padding: EdgeInsets.symmetric(horizontal: 6),
+                        child: RaisedButton(
+                          padding: EdgeInsets.all(12),
+                          textColor: Colors.white,
+                          color: Colors.red[700],
+                          child: Icon(
+                            Icons.thumb_down,
+                            size: 30.0,
+                          ),
+                          onPressed: () {;
+                          setState(() {
+                            yanitlar[soruIndex]==false
+                                ?secimler.add(kDogruIconu)
+                                :secimler.add(kYanlisIconu);
+                            soruIndex++ ;
+                            if (soruIndex==20)
+                              {
+                                Navigator.of(context).push(MaterialPageRoute(builder: (context) => FinishScreen()));
+                              };
+
+                          });
+                          },
+                        ))),
+                Expanded(
+                    child: Padding(
+                        padding: EdgeInsets.symmetric(horizontal: 6),
+                        child: RaisedButton(
+                          padding: EdgeInsets.all(12),
+                          textColor: Colors.white,
+                          color: Colors.green[800],
+                          child: Icon(Icons.thumb_up, size: 30.0),
+                          onPressed: () {
+
+                            setState(() {
+                              yanitlar[soruIndex]==true
+                                  ?secimler.add(kDogruIconu)
+                                  :secimler.add(kYanlisIconu);
+                              soruIndex++ ;
+                              if (soruIndex==20)
+                              {
+                                Navigator.of(context).push(MaterialPageRoute(builder: (context) => FinishScreen()));
+                              };
+
+
+                            });
+                          },
+                        ))),
+              ])),
+        )
+      ],
+    );
+  }
+}
+class FinishScreen extends StatelessWidget {
+  const FinishScreen({Key? key}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      backgroundColor: Colors.amber,
+      body: Center(child: Container( child: Text("Tebrikler! Siz testi tamamladınız. Sorularımızı yanıtladığınız için teşekkürler :)"),)),
+
+
+    );
+  }
+}
