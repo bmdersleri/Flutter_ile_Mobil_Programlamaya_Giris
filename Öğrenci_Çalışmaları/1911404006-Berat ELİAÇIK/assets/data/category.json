@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Trafik Alanı",
+    "imagePath": "assets/icons/category/traffic.png"
+  },
+  {
+    "id": 2,
+    "name": "Motor Alanı",
+    "imagePath": "assets/icons/category/engine.png"
+  },
+  {
+    "id": 3,
+    "name": "İlk Yardım Alanı",
+    "imagePath": "assets/icons/category/first-aid.png"
+  },
+  {
+    "id": 4,
+    "name": "Trafik Adabı Alanı",
+    "imagePath": "assets/icons/category/traffic-etiquette.png"
+  }
+]
