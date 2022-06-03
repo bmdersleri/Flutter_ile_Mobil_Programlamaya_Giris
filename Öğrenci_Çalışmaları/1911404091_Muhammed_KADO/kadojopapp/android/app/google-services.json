@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072752220985",
+    "project_id": "kadojob-ba1c1",
+    "storage_bucket": "kadojob-ba1c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072752220985:android:1d2d8fc1a948af3089a6e8",
+        "android_client_info": {
+          "package_name": "com.kadojob.kadojobapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072752220985-8jomvqfrrec166ea7h8mgu4amjhvke1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlTf8RNIJuaI8HKip9fqWrHb03sMrThVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072752220985-8jomvqfrrec166ea7h8mgu4amjhvke1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
