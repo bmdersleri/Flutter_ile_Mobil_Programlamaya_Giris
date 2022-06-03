@@ -1,0 +1,2713 @@
+[
+  {
+    "id": 1,
+    "title": "Trafik Soruları 01",
+    "description": "Trafik Alanından her sınavda 23 soru gelmektedir.",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 1,
+    "questions": [
+      {
+        "text": "Alkol en çok beyin hücrelerini etkilemekte ve merkezi sinir sisteminde olumsuz etki yapmaktadır. Buna göre aşağıdakilerden hangisi bu durumun sonuçlarındandır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Karar verme ve kendini kontrol edebilme yeteneğinin azalması",
+            "isCorrect": true
+          },
+          {
+            "text": "Yollarda tehdit unsuru oluşumunun azalması",
+            "isCorrect": false
+          },
+          {
+            "text": "Kaza yapma riskinin azalması",
+            "isCorrect": false
+          },
+          {
+            "text": "Sürüş yeteneğinin artması",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdakilerden hangisi tüm kara yollarındaki işaretleme standartlarının tespiti, yayınlanması ve kontrolü ile görevlidir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Sağlık Bakanlığı",
+            "isCorrect": false
+          },
+          {
+            "text": "Milli Eğitim Bakanlığı",
+            "isCorrect": false
+          },
+          {
+            "text": "Emniyet Genel Müdürlüğü",
+            "isCorrect": false
+          },
+          {
+            "text": "Karayolları Genel Müdürlüğü",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Kamu hizmeti yapan yolcu taşıtlarının yolcu veya hizmetlileri bindirmeleri, indirmeleri veya duraklamaları için yatay ve düşey işaretlerle belirlenmiş yere ne ad verilir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Garaj",
+            "isCorrect": false
+          },
+          {
+            "text": "Durak",
+            "isCorrect": true
+          },
+          {
+            "text": "Otopark",
+            "isCorrect": false
+          },
+          {
+            "text": "Park yeri",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Trafik kuruluşunca, uyuşturucu veya uyarıcı madde kullandığı tespit edilen sürücüye aşağıdaki işlemlerden hangisi uygulanır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Sürücü belgesi 5 yıl süreyle geçici olarak geri alınır.",
+            "isCorrect": true
+          },
+          {
+            "text": "Sadece şehir içinde araç sürmesine izin verilir.",
+            "isCorrect": false
+          },
+          {
+            "text": "Sürücü belgesi 6 ay süreyle geri alınır.",
+            "isCorrect": false
+          },
+          {
+            "text": "Sadece para cezası verilir.",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aksine bir işaret bulunmadıkça otoyolda minibüs ve otobüsler için azami hız saatte kaç kilometredir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "80",
+            "isCorrect": false
+          },
+          {
+            "text": "90",
+            "isCorrect": false
+          },
+          {
+            "text": "100",
+            "isCorrect": true
+          },
+          {
+            "text": "110",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Arkadan çarpma şeklindeki trafik kazalarının en önemli sebebi aşağıdakilerden hangisidir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Öndeki aracın durması",
+            "isCorrect": false
+          },
+          {
+            "text": "Öndeki aracın yavaşlaması",
+            "isCorrect": false
+          },
+          {
+            "text": "Görüş mesafesinin kötü olması",
+            "isCorrect": false
+          },
+          {
+            "text": "Takip mesafesi kurallarına uyulmaması",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Manevra yapacak sürücü aşağıdakilerden hangisini yapmalıdır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Ön, arka ve yanlardaki trafiği kontrol etmeli",
+            "isCorrect": true
+          },
+          {
+            "text": "İşaret verdiği anda manevraya başlamalı",
+            "isCorrect": false
+          },
+          {
+            "text": "Manevraya başladıktan sonra işaret vermeli",
+            "isCorrect": false
+          },
+          {
+            "text": "Manevra bitmeden önce işaret vermeyi sona erdirmeli",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Geçiş üstünlüğüne sahip araç sürücüsü, bu hakkı kullanırken aşağıdakilerden hangisine dikkat etmek zorundadır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Hız sınırlamasına",
+            "isCorrect": false
+          },
+          {
+            "text": "Trafik yasaklarına",
+            "isCorrect": false
+          },
+          {
+            "text": "Çevreyi rahatsız etmemeye",
+            "isCorrect": false
+          },
+          {
+            "text": "Can ve mal güvenliğini tehlikeye sokmamaya",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Geceleyin, görüşün yeterli olmadığı kavşağa yaklaşan sürücü gelişini nasıl haber vermelidir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Birkaç defa selektör yaparak",
+            "isCorrect": true
+          },
+          {
+            "text": "Acil uyarı ışıklarını yakarak",
+            "isCorrect": false
+          },
+          {
+            "text": "Birkaç defa korna çalarak",
+            "isCorrect": false
+          },
+          {
+            "text": "Dönüş ışıklarını yakarak",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Park hâlindeki araca çarpan sürücünün aşağıdakilerden hangisini yapması yanlıştır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Aracın sahibini bulamazsa yazılı bilgi bırakması",
+            "isCorrect": false
+          },
+          {
+            "text": "Zarar fazla değilse olay yerinden uzaklaşması",
+            "isCorrect": true
+          },
+          {
+            "text": "Zarar verdiği aracın sahibini bulması",
+            "isCorrect": false
+          },
+          {
+            "text": "Trafik görevlisine haber vermesi",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdakilerden hangisi Karayolları Trafik Kanunu’na göre sürücü olabilmenin şartlarından biri değildir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Bir meslek sahibi olmak",
+            "isCorrect": true
+          },
+          {
+            "text": "Belirli bir eğitim seviyesine sahip olmak",
+            "isCorrect": false
+          },
+          {
+            "text": "Kullanacağı araca göre belirli bir yaşın üzerinde olmak",
+            "isCorrect": false
+          },
+          {
+            "text": "Sürücülük yapmaya uygun olduğunu gösterir sağlık raporu almak",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdakilerden hangisi atıkların çevreye verdiği zararlardan biri değildir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Kötü koku yayması",
+            "isCorrect": false
+          },
+          {
+            "text": "Çirkin görünüm arz etmesi",
+            "isCorrect": false
+          },
+          {
+            "text": "Hastalık bulaştıran zararlıların üremesine sebep olması",
+            "isCorrect": false
+          },
+          {
+            "text": "Toplanıp işlenerek tekrar kullanılabilir hâle getirilmesi",
+            "isCorrect": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Trafik Soruları 02",
+    "description": "Trafik Alanından her sınavda 23 soru gelmektedir.",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 1,
+    "questions": [
+      {
+        "text": "Aşağıdakilerden hangisi Karayolları Genel Müdürlüğünün görevlerinden biri değildir?",
+        "duration": 10,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Şehir içindeki açık ve kapalı otoparklara izin vermek",
+            "isCorrect": true
+          },
+          {
+            "text": "Kara yollarındaki hız sınırlarını belirleyip işaretlemek",
+            "isCorrect": false
+          },
+          {
+            "text": "Kara yollarındaki işaretleme standartlarını tespit ve kontrol etmek",
+            "isCorrect": false
+          },
+          {
+            "text": "Kara yolu güvenliğini ilgilendiren konulardaki projeleri incelemek ve onaylamak",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Trafik zabıtası veya yetkililerce Kanunda ve yönetmelikte belirtilen hâllerde araçla ilgili belgelerin alınması ve aracın belirli bir yere çekilerek trafikten alıkonulmasına ne denir?",
+        "duration": 15,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Trafik suçu",
+            "isCorrect": false
+          },
+          {
+            "text": "Trafik terörü",
+            "isCorrect": false
+          },
+          {
+            "text": "Trafik kusuru",
+            "isCorrect": false
+          },
+          {
+            "text": "Trafikten men",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdaki hâllerin hangisinde sürücü araç kullanmaktan men edilir?",
+        "duration": 20,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Taşıma sınırının üstünde yolcu almışsa",
+            "isCorrect": false
+          },
+          {
+            "text": "Taşıma sınırının üstünde yük yüklemişse",
+            "isCorrect": false
+          },
+          {
+            "text": "Uyuşturucu madde alarak araç kullanıyorsa",
+            "isCorrect": true
+          },
+          {
+            "text": "Zorunlu mali sorumluluk sigortasını yaptırmamışsa",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Öndeki aracın güvenle takip edildiği uzaklığa ne denir?",
+        "duration": 25,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Takip mesafesi",
+            "isCorrect": true
+          },
+          {
+            "text": "Geçiş mesafesi",
+            "isCorrect": false
+          },
+          {
+            "text": "Görüş mesafesi",
+            "isCorrect": false
+          },
+          {
+            "text": "İntikal mesafesi",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdakilerden hangisi geçiş üstünlüğüne sahip araçlardandır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "İtfaiye aracı",
+            "isCorrect": true
+          },
+          {
+            "text": "Motosiklet",
+            "isCorrect": false
+          },
+          {
+            "text": "Tarım traktörü",
+            "isCorrect": false
+          },
+          {
+            "text": "Toplu taşıma aracı",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Park edilen araç için aşağıdakilerden hangisinin yapılmasına gerek yoktur?",
+        "duration": 35,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "El freninin çekilmesine",
+            "isCorrect": false
+          },
+          {
+            "text": "Motorunun durdurulmasına",
+            "isCorrect": false
+          },
+          {
+            "text": "Acil uyarı ışıklarının yakılmasına",
+            "isCorrect": true
+          },
+          {
+            "text": "Yol eğimli ise uygun vitese takılmasına",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Geceleyin önündeki aracı geçmek isteyen sürücü, bu araçla yan yana gelinceye kadar hangi ışıkları kullanmalıdır?",
+        "duration": 35,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Sis ışıklarını",
+            "isCorrect": false
+          },
+          {
+            "text": "Acil uyarı ışıklarını",
+            "isCorrect": false
+          },
+          {
+            "text": "Uzağı gösteren ışıkları",
+            "isCorrect": false
+          },
+          {
+            "text": "Yakını gösteren ışıkları",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Kamyon, kamyonet ve römorklarda yükle birlikte yolcu taşınırken aşağıdakilerden hangisinin yapılması yasaktır?",
+        "duration": 35,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Yüklerin bağlanması",
+            "isCorrect": false
+          },
+          {
+            "text": "Yolcuların yüklerin üzerine oturtulması",
+            "isCorrect": true
+          },
+          {
+            "text": "Kasanın yan ve arka kapaklarının kapatılması",
+            "isCorrect": false
+          },
+          {
+            "text": "Yolcuların kasa içinde ayrılmış bir yere oturtulması",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Araçlarda emniyet kemeri kullanımının zorunlu olması ile aşağıdakilerden hangisi hedeflenmektedir?",
+        "duration": 35,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Kazaların önlenmesi",
+            "isCorrect": false
+          },
+          {
+            "text": "Sürücülerin dikkatinin artırılması",
+            "isCorrect": false
+          },
+          {
+            "text": "Denetimlerde herhangi bir sorun yaşanmaması",
+            "isCorrect": false
+          },
+          {
+            "text": "Kaza anında ölüm ve yaralanmaların en aza indirilmesi",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdakilerden hangisi trafik kazalarının en önemli sebebidir?",
+        "duration": 35,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Trafik görevlisi sayısının yetersiz olması",
+            "isCorrect": false
+          },
+          {
+            "text": "Uyarı işaretlerinin yetersiz olması",
+            "isCorrect": false
+          },
+          {
+            "text": "Sürücülerin kurallara uymaması",
+            "isCorrect": true
+          },
+          {
+            "text": "Yolların bakımsız olması",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Trafik Soruları 03",
+    "description": "Trafik alanından her sınavda 23 soru gelmektedir.",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 1,
+    "questions": [
+      {
+        "text": "Trafikte heyecan ve zevk verici davranışları yapma eğiliminde olan bir sürücünün aşağıdaki davranışlardan hangisini gösterme olasılığı yüksektir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Hız sınırına uyma",
+            "isCorrect": false
+          },
+          {
+            "text": "Yayaya yol verme",
+            "isCorrect": false
+          },
+          {
+            "text": "Trafik levhalarını okuma",
+            "isCorrect": false
+          },
+          {
+            "text": "Sürekli şerit değiştirerek araç kullanma",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Yapım ve bakımından sorumlu olduğu kara yollarında, İçişleri Bakanlığının uygun görüşü alınmak suretiyle, Kara Yolları Trafik Yönetmeliğinde belirlenen hız sınırlarının üstünde veya altında hız sınırları belirlemek ve işaretlemek hangi kurumun görev ve yetkisidir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Sağlık Bakanlığının",
+            "isCorrect": false
+          },
+          {
+            "text": "Maliye Bakanlığının",
+            "isCorrect": false
+          },
+          {
+            "text": "Kara Yolları Genel Müdürlüğünün",
+            "isCorrect": true
+          },
+          {
+            "text": "Millî Eğitim Bakanlığının",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Yaya yolu ayrılmamış kara yolunda, taşıt yolu kenarı ile şev başı veya hendek iç üst kenarı arasında kalan ve olağan olarak yayaların ve hayvanların kullanacağı, zorunlu hâllerde de araçların faydalanabileceği bölüme ne denir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Banket",
+            "isCorrect": true
+          },
+          {
+            "text": "Şerit",
+            "isCorrect": false
+          },
+          {
+            "text": "Platform",
+            "isCorrect": false
+          },
+          {
+            "text": "Kavşak ortak alanı",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Ölümle sonuçlanan trafik kazalarına asli kusurlu olarak sebebiyet veren sürücülerin sürücü belgeleri, ilgili mahkeme tarafından kaç yıl süre ile geri alınır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "1",
+            "isCorrect": true
+          },
+          {
+            "text": "2",
+            "isCorrect": false
+          },
+          {
+            "text": "3",
+            "isCorrect": false
+          },
+          {
+            "text": "4",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Kara yollarında araç kullanan bir sürücünün aşağıdakilerden hangisini yapması yasaktır?",
+        "duration": 35,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Aksine bir işaret yoksa daralan yol kesimlerinde yüklü araçlara geçiş kolaylığı sağlaması",
+            "isCorrect": false
+          },
+          {
+            "text": "Kavşaklarda, demir yolu geçitlerinde ve buralara yaklaşırken öndeki aracı geçmesi",
+            "isCorrect": true
+          },
+          {
+            "text": "Kavşağa geldiğinde varsa kurallara uygun olarak karşıya geçen yayalara geçiş hakkını vermesi",
+            "isCorrect": false
+          },
+          {
+            "text": "Geçiş üstünlüğü bulunan bir aracın duyulur veya görülür işaretini aldığında, bu araçların kolayca ilerlemelerini sağlamak için taşıt yolu üzerinde yer açması",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Belgelerinde aksine bir hüküm yoksa şehirler arası bölünmüş kara yolunda tehlikeli madde taşıyan araçların azami hızı saatte kaç kilometredir?",
+        "duration": 25,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "40",
+            "isCorrect": false
+          },
+          {
+            "text": "50",
+            "isCorrect": false
+          },
+          {
+            "text": "60",
+            "isCorrect": true
+          },
+          {
+            "text": "70",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Bir kavşakta sağa dönecek olan sürücünün aşağıdakilerden hangisini yapması yanlıştır?",
+        "duration": 25,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Hızını azaltması",
+            "isCorrect": false
+          },
+          {
+            "text": "Dönüş işareti vermesi",
+            "isCorrect": false
+          },
+          {
+            "text": "Geniş bir kavisle dönmesi",
+            "isCorrect": true
+          },
+          {
+            "text": "Sağ şeride veya işaretlerle dönüş izni verilen şeride girmesi",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdakilerden hangisi park etmede alınacak tedbirlerden biri değildir?",
+        "duration": 25,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "El freni ile tespit edilmesi",
+            "isCorrect": false
+          },
+          {
+            "text": "Eğimli yollarda ön tekerleğin sağa çevrilmesi",
+            "isCorrect": false
+          },
+          {
+            "text": "Eğimli yollarda otobüslerin her iki arka tekerleklerine takoz konulması",
+            "isCorrect": false
+          },
+          {
+            "text": "Aracın terk edilmesi hâlinde camlarının açık bırakılması",
+            "isCorrect": true
+          }
+        ]
+      }
+
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Trafik Soruları 04",
+    "description": "Trafik alanından her sınavda 23 soru gelmektedir.",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 1,
+    "questions": [
+      {
+        "text": "Geceleyin otoyolda seyir hâlindeyken öndeki araç sürücüsünü rahatsız etmemek için aracın hangi ışıkları kullanılmalıdır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Sis",
+            "isCorrect": false
+          },
+          {
+            "text": "Sadece park",
+            "isCorrect": false
+          },
+          {
+            "text": "Yakını gösteren",
+            "isCorrect": true
+          },
+          {
+            "text": "Uzağı gösteren",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdakilerden hangisi trafik kazalarına neden olan faktörlerden yol unsuru içinde yer alır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Havanın sisli olması",
+            "isCorrect": false
+          },
+          {
+            "text": "Yol zemininin gevşek olması",
+            "isCorrect": true
+          },
+          {
+            "text": "Yüksek hızda araç kullanılması",
+            "isCorrect": false
+          },
+          {
+            "text": "Araç fren sisteminin arızalanması",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdaki araçlardan hangisinde takograf bulundurulması zorunludur?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Otomobil",
+            "isCorrect": false
+          },
+          {
+            "text": "Traktör",
+            "isCorrect": false
+          },
+          {
+            "text": "Motosiklet",
+            "isCorrect": false
+          },
+          {
+            "text": "Otobüs",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "2918 sayılı trafik kanununa göre ilk defa sürücü belgesi alanlar ile herhangi bir sebeple sürücü belgesi iptal edilmiş olup da yeniden sürücü belgesi alanlar, belgenin alındığı tarihten itibaren kaç yıl süreyle aday sürücü olarak kabul edilir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "2",
+            "isCorrect": true
+          },
+          {
+            "text": "3",
+            "isCorrect": false
+          },
+          {
+            "text": "5",
+            "isCorrect": false
+          },
+          {
+            "text": "10",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Frene basıldığı andan itibaren, aracın durmasına kadar geçen sürede katedilen yola “fren mesafesi” denir. Buna göre aşağıdakilerden hangisi fren mesafesini etkileyen faktörlerden biri değildir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Aracın hızı",
+            "isCorrect": false
+          },
+          {
+            "text": "İklim koşulları",
+            "isCorrect": false
+          },
+          {
+            "text": "Yolun genişliği",
+            "isCorrect": true
+          },
+          {
+            "text": "Aracın yük durumu",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Motor Soruları 01",
+    "description": "Motor alanından her sınavda 9 soru gelmektedir.",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 2,
+    "questions": [
+      {
+        "text": "Aşağıdakilerden hangisi araçlarda gücün kaynağıdır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Şaft",
+            "isCorrect": false
+          },
+          {
+            "text": "Motor",
+            "isCorrect": true
+          },
+          {
+            "text": "Tekerlek",
+            "isCorrect": false
+          },
+          {
+            "text": "Vites kutusu",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdakilerden hangisi buji ile ateşlemeli motorların yakıtıdır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Benzin",
+            "isCorrect": true
+          },
+          {
+            "text": "Motorin",
+            "isCorrect": false
+          },
+          {
+            "text": "Antifriz",
+            "isCorrect": false
+          },
+          {
+            "text": "Gaz yağı",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Yakıt içerisinde toz, su veya pislik varsa motor nasıl çalışır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Düzensiz, tekleyerek",
+            "isCorrect": true
+          },
+          {
+            "text": "Yüksek devirde",
+            "isCorrect": false
+          },
+          {
+            "text": "Zengin karışımla",
+            "isCorrect": false
+          },
+          {
+            "text": "Yüksek performansla",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Kışın aşırı soğuktan dolayı motor soğutma suyu donduğu zaman meydana gelen genleşme kuvveti; silindir bloğu, silindir kapağı ve radyatörü çatlatabilir. Buna göre donmayı önlemek için motor soğutma suyuna aşağıdakilerden hangisinin yeterli miktarda karıştırılması gerekir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Antifriz",
+            "isCorrect": true
+          },
+          {
+            "text": "Asit",
+            "isCorrect": false
+          },
+          {
+            "text": "Saf su",
+            "isCorrect": false
+          },
+          {
+            "text": "Motor yağı",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Lastiklerin hava basıncı dengesizse frenleme anında aşağıdakilerden hangisi olur?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Araç bir tarafa çeker.",
+            "isCorrect": true
+          },
+          {
+            "text": "Fren pedalı sertleşir.",
+            "isCorrect": false
+          },
+          {
+            "text": "Frenlerden ses gelir.",
+            "isCorrect": false
+          },
+          {
+            "text": "Fren hidroliği azalır.",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdakilerden hangisi elektrik devresindeki sigortanın görevidir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Kısa devre olduğunda sistemi korumak",
+            "isCorrect": true
+          },
+          {
+            "text": "Aküyü şarj etmek",
+            "isCorrect": false
+          },
+          {
+            "text": "Bujilere giden akımı yükseltmek",
+            "isCorrect": false
+          },
+          {
+            "text": "Endüksiyon bobinine giden akımı yükseltmek",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Seyir hâlindeyken araçtan “sürekli yakıt kokusu” alınması durumunda aşağıdakilerden hangisi yapılır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Önemsenmez yola devam edilir.",
+            "isCorrect": false
+          },
+          {
+            "text": "Açık camlar kapatılır.",
+            "isCorrect": false
+          },
+          {
+            "text": "Trafik kurallarına uyarak durulur ve kontak kapatılır.",
+            "isCorrect": true
+          },
+          {
+            "text": "Lastiklerin hava basıncı kontrol edilir.",
+            "isCorrect": false
+          }
+        ]
+      },{
+        "text": "Araçlarda yakıt tasarrufu sağlamak için aşağıdakilerden hangisi yapılmalıdır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Termostat çıkartılmalı",
+            "isCorrect": false
+          },
+          {
+            "text": "Eskimiş bujiler değiştirilmeli",
+            "isCorrect": true
+          },
+          {
+            "text": "Lastiklerin hava basıncı indirilmeli",
+            "isCorrect": false
+          },
+          {
+            "text": "Motor yüksek devirde çalıştırılmalı",
+            "isCorrect": false
+          }
+        ]
+      },{
+        "text": "Aşağıdakilerden hangisi aracı istenilen yöne sevk eder?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Aydınlatma sistemi",
+            "isCorrect": false
+          },
+          {
+            "text": "Marş sistemi",
+            "isCorrect": false
+          },
+          {
+            "text": "Yağlama sistemi",
+            "isCorrect": false
+          },
+          {
+            "text": "Direksiyon sistemi",
+            "isCorrect": true
+          }
+        ]
+      },{
+        "text": "Aşağıdakilerden hangisi aracı kullanmaya başlamadan önce yapılması gereken hazırlıklardan biri değildir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Koltuğun ayarlanması",
+            "isCorrect": false
+          },
+          {
+            "text": "Klimanın açılması",
+            "isCorrect": true
+          },
+          {
+            "text": "Aynaların ayarlanması",
+            "isCorrect": false
+          },
+          {
+            "text": "Emniyet kemerinin takılması",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Motor Soruları 02",
+    "description": "Motor alanından her sınavda 9 soru gelmektedir.",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 2,
+    "questions": [
+      {
+        "text": "Motorlu araçlarda motorun yağ seviyesini kontrol etmeye yarayan ve özel işaretleri bulunan parçaya ne ad verilir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Yağdanlık",
+            "isCorrect": false
+          },
+          {
+            "text": "Yağ çubuğu",
+            "isCorrect": true
+          },
+          {
+            "text": "Yağ filtresi",
+            "isCorrect": false
+          },
+          {
+            "text": "Yağ pompası",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aracın elektrik devresinde, akım yüksek olduğunda eriyerek güvenliği sağlayan parça aşağıdakilerden hangisidir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Akü",
+            "isCorrect": false
+          },
+          {
+            "text": "Platin",
+            "isCorrect": false
+          },
+          {
+            "text": "Sigorta",
+            "isCorrect": true
+          },
+          {
+            "text": "Alternatör",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Kriko ile aracı kaldırırken tekerleklere takoz konulmasının nedeni aşağıdakilerden hangisidir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Aracın motorunu çalıştırabilmek",
+            "isCorrect": false
+          },
+          {
+            "text": "Aracın hareket etmesini engellemek",
+            "isCorrect": true
+          },
+          {
+            "text": "Araç yakıtının buharlaşmasını engellemek",
+            "isCorrect": false
+          },
+          {
+            "text": "Araç motorunun sarsıntısız çalışmasını sağlamak",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Seyir hâlindeyken araçtan “sürekli yakıt kokusu” alınması durumunda aşağıdakilerden hangisi yapılır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Antifriz kontrol edilir.",
+            "isCorrect": false
+          },
+          {
+            "text": "Önemsenmez yola devam edilir.",
+            "isCorrect": false
+          },
+          {
+            "text": "Lastiklerin hava basıncı kontrol edilir.",
+            "isCorrect": false
+          },
+          {
+            "text": "Trafik kurallarına uyarak durulur ve kontak kapatılır.",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdakilerden hangisi yakıt tüketiminin artmasında sürücüden kaynaklanan kusurdur?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Aşırı hız yapılması",
+            "isCorrect": true
+          },
+          {
+            "text": "Frenlerin ayarsız olması",
+            "isCorrect": false
+          },
+          {
+            "text": "Rölanti ayarının bozuk olması",
+            "isCorrect": false
+          },
+          {
+            "text": "Lastiklerin havasının az olması",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Motor Soruları 03",
+    "description": "Motor alanından her sınavda 9 soru gelmektedir.",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 2,
+    "questions": [
+      {
+        "text": "Motor hareketinin vites kutusuna iletilmesini sağlayan sistem aşağıdakilerden hangisidir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Marş",
+            "isCorrect": false
+          },
+          {
+            "text": "Şarj",
+            "isCorrect": false
+          },
+          {
+            "text": "Ateşleme",
+            "isCorrect": false
+          },
+          {
+            "text": "Kavrama",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Seyahate başlamadan önce koltuk ve ayna ayarlarının yapılmasının sebebi aşağıdakilerden hangisidir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Sürüş konforu ve güvenliğini sağlamak",
+            "isCorrect": true
+          },
+          {
+            "text": "Aracın ivmelenme süresini artırmak",
+            "isCorrect": false
+          },
+          {
+            "text": "Lastiklerin ömrünü uzatmak",
+            "isCorrect": false
+          },
+          {
+            "text": "Yakıt tüketimini azaltmak",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Dizel motor kullanan bir araca yanlışlıkla benzin konulması durumunda aşağıdakilerden hangisinin yapılması uygundur?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Aracın düşük hızda sürülmesi",
+            "isCorrect": false
+          },
+          {
+            "text": "Yakıt deposunun boşaltılması",
+            "isCorrect": true
+          },
+          {
+            "text": "Aracın yüksek devirde kullanılması",
+            "isCorrect": false
+          },
+          {
+            "text": "Lastik hava basınçlarının düşürülmesi",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdakilerden hangisi frenleme mesafesinin artmasına neden olur?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Yakıt seviyesinin düşmesi",
+            "isCorrect": false
+          },
+          {
+            "text": "Balata yüzeyinin kuru olması",
+            "isCorrect": false
+          },
+          {
+            "text": "Lastik diş derinliklerinin azalması",
+            "isCorrect": true
+          },
+          {
+            "text": "Motor yağı değişiminin geciktirilmesi",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Yaz aylarında kış lastiklerinin kullanılması aşağıdakilerden hangisine neden olur?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Aracın maksimum hızının artmasına",
+            "isCorrect": false
+          },
+          {
+            "text": "Lastiklerin daha çabuk aşınmasına",
+            "isCorrect": true
+          },
+          {
+            "text": "Fren sisteminin arızalanmasına",
+            "isCorrect": false
+          },
+          {
+            "text": "Yakıt tüketiminin azalmasına",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Motor Soruları 04",
+    "description": "Motor alanından her sınavda 9 soru gelmektedir.",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 2,
+    "questions": [
+      {
+        "text": "Marş yapıldığında gösterge ışıkları yanıyor ancak marş motoru dönmüyorsa problem aşağıdakilerden hangisi olabilir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Yakıt bitmiştir.",
+            "isCorrect": false
+          },
+          {
+            "text": "Batarya zayıflamıştır.",
+            "isCorrect": true
+          },
+          {
+            "text": "Lastik basınçları düşüktür.",
+            "isCorrect": false
+          },
+          {
+            "text": "Motor yağ seviyesi azalmıştır.",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Marşa basıldığında motor dönüyor ancak çalışmıyorsa ilk olarak aşağıdakilerden hangisi kontrol edilmelidir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Bujiler",
+            "isCorrect": false
+          },
+          {
+            "text": "Akü suyu",
+            "isCorrect": false
+          },
+          {
+            "text": "Motor yağ seviyesi",
+            "isCorrect": false
+          },
+          {
+            "text": "Depodaki yakıt seviyesi",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Periyodik bakımda aşağıdakilerden hangisinin değiştirilmemesi araç motorunun çalışmasını olumsuz etkiler?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Polen filtresinin",
+            "isCorrect": false
+          },
+          {
+            "text": "Yağ filtresinin",
+            "isCorrect": true
+          },
+          {
+            "text": "Araç lastiklerinin",
+            "isCorrect": false
+          },
+          {
+            "text": "Cam sileceklerinin",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Araçta yanmış bir sigortayı daha yüksek amperli bir sigortayla değiştirmek ya da telle sarmak aşağıdakilerden hangisine neden olabilir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Bujinin daha iyi ateşlemesine",
+            "isCorrect": false
+          },
+          {
+            "text": "Farların daha canlı yanmasına",
+            "isCorrect": false
+          },
+          {
+            "text": "Akünün daha çabuk bitmesine",
+            "isCorrect": false
+          },
+          {
+            "text": "Elektrik tesisatının yanmasına",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Radyatördeki su miktarının azalması aşağıdakilerden hangisine neden olur?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Motorun hararet yapmasına",
+            "isCorrect": true
+          },
+          {
+            "text": "Motor devrinin yükselmesine",
+            "isCorrect": false
+          },
+          {
+            "text": "Klimanın düzensiz çalışmasına",
+            "isCorrect": false
+          },
+          {
+            "text": "Akünün kısa zamanda bitmesine",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "İlk Yardım Soruları 01",
+    "description": "İlk yardım alanından her sınavda 12 soru gelmektedir.",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 3,
+    "questions": [
+      {
+        "text": "Aşağıdakilerden hangisi ilk yardımcıda bulunması gereken özelliklerdendir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Telaşlı ve tedirgin olması",
+            "isCorrect": false
+          },
+          {
+            "text": "İletişim becerilerinin zayıf olması",
+            "isCorrect": false
+          },
+          {
+            "text": "Önce çevrenin güvenliğini sağlaması",
+            "isCorrect": false
+          },
+          {
+            "text": "İnsan vücudu ile ilgili temel bilgilere sahip olması",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Kazazedeye sözlü uyaranla ya da hafifçe omzuna dokunarak “iyi misiniz?” diye sorularak - - - - değerlendirmesi yapılır. Yukarıdaki açıklamada boş bırakılan yere hangisi yazılmalıdır? ",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "dolaşım",
+            "isCorrect": false
+          },
+          {
+            "text": "bilinç durumu",
+            "isCorrect": true
+          },
+          {
+            "text": "solunum",
+            "isCorrect": false
+          },
+          {
+            "text": "hava yolu açıklığı",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Yetişkin bir kazazedenin solunum yapıp yapmadığı bak-dinle-hisset yöntemiyle kaç saniye süre ile kontrol edilir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "10",
+            "isCorrect": true
+          },
+          {
+            "text": "20",
+            "isCorrect": false
+          },
+          {
+            "text": "30",
+            "isCorrect": false
+          },
+          {
+            "text": "40",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdaki durumların hangisinde kazazedeye Heimlich Manevrası uygulanır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Kan şekeri düştüğünde",
+            "isCorrect": false
+          },
+          {
+            "text": "Tam tıkanma yaşadığında",
+            "isCorrect": true
+          },
+          {
+            "text": "Kanaması olduğunda",
+            "isCorrect": false
+          },
+          {
+            "text": "Kalbi durduğunda",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdakilerden hangisi dış kanamalarda yapılan hatalı ilk yardım uygulamalarındandır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Kanayan bölgeyi aşağıya indirmek",
+            "isCorrect": true
+          },
+          {
+            "text": "Kanayan yer üzerine temiz bir bezle bastırmak",
+            "isCorrect": false
+          },
+          {
+            "text": "Uzuv kopması varsa boğucu sargı (turnike) uygulamak",
+            "isCorrect": false
+          },
+          {
+            "text": "Kanayan yere en yakın basınç noktasına baskı uygulamak",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdakilerden hangisi delici karın yaralanması olan kazazedeye yapılması gereken ilk yardım uygulamalarından biri değildir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Bilinç kontrolünün yapılması",
+            "isCorrect": false
+          },
+          {
+            "text": "Yaşam bulgularının sık sık izlenmesi",
+            "isCorrect": false
+          },
+          {
+            "text": "Dışarı çıkan organlarının içeri sokulmaya çalışılması",
+            "isCorrect": true
+          },
+          {
+            "text": "Bilinci yerinde ise sırtüstü pozisyonda bacakları bükülmüş olarak yatırılması",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdakilerden hangisi çıkıklarda yapılması gereken ilk yardım uygulamalarındandır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Çıkığın yerine oturtulmaya çalışılması",
+            "isCorrect": false
+          },
+          {
+            "text": "Eklemin düzeltildikten sonra tespit edilmesi",
+            "isCorrect": false
+          },
+          {
+            "text": "Çıkık olan bölgeye kuvvetli masaj yapılması",
+            "isCorrect": false
+          },
+          {
+            "text": "Bölgenin nabzının, deri renginin ve ısısının kontrol edilmesi",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Beyne giden kan akışının azalması sonucu oluşan kısa süreli, yüzeysel ve geçici bilinç kaybına ne ad verilir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Koma",
+            "isCorrect": false
+          },
+          {
+            "text": "Bayılma",
+            "isCorrect": true
+          },
+          {
+            "text": "Sara krizi",
+            "isCorrect": false
+          },
+          {
+            "text": "Ateşli havale",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Kaza sonrası solunum durması, yangın tehlikesi, patlama gibi tehlikeli durumların olasılığı mevcut ise kazazedenin omuriliğine zarar vermeden araçtan çıkarılmasında kullanılan teknik aşağıdakilerden hangisidir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Rentek manevrası",
+            "isCorrect": true
+          },
+          {
+            "text": "İtfaiyeci yöntemi ile omuzda taşıma",
+            "isCorrect": false
+          },
+          {
+            "text": "Ayak bileklerinden sürükleme yöntemi",
+            "isCorrect": false
+          },
+          {
+            "text": "Koltuk altından tutarak sürükleme yöntemi",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdakilerden hangisi solunum sistemi organlarındandır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Kalp",
+            "isCorrect": false
+          },
+          {
+            "text": "Akciğerler",
+            "isCorrect": true
+          },
+          {
+            "text": "Pankreas",
+            "isCorrect": false
+          },
+          {
+            "text": "Böbrekler",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdakilerden hangisi “kaza sonuçlarının ağırlaşmasını önlemek için olay yerinin değerlendirilmesi” işlemini kapsar?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Koruma",
+            "isCorrect": true
+          },
+          {
+            "text": "Bildirme",
+            "isCorrect": false
+          },
+          {
+            "text": "Kurtarma",
+            "isCorrect": false
+          },
+          {
+            "text": "Tedavi etme",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdakilerden hangisi kalp durmasının belirtilerindendir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Aşırı hareketlilik",
+            "isCorrect": false
+          },
+          {
+            "text": "Bilincin açık olması",
+            "isCorrect": false
+          },
+          {
+            "text": "Kalp atımının olmaması",
+            "isCorrect": true
+          },
+          {
+            "text": "Hızlı ve yüzeysel solunum",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "İlk Yardım Soruları 02",
+    "description": "İlk yardım alanından her sınavda 12 soru gelmektedir.",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 3,
+    "questions": [
+      {
+        "text": "Aşağıdakilerden hangisi bebeklere yapılan yapay solunum uygulamasında, ilk yardımcının dikkat etmesi gereken kurallardandır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Bebeğin yumuşak bir zemin üzerine sırtüstü yatırılması",
+            "isCorrect": false
+          },
+          {
+            "text": "Hava yolu tıkanıklığına neden olan yabancı cisim varsa bebeğin yutmasının sağlanması",
+            "isCorrect": false
+          },
+          {
+            "text": "Bebeğin solunum yapıp yapmadığının bak-dinle-hisset yöntemiyle 2 dakika süre ile kontrol edilmesi",
+            "isCorrect": false
+          },
+          {
+            "text": "Bebekte solunum yoksa ağız dolusu nefes alınması ve ağzın, bebeğin ağız ve burnunu içine alacak şekilde yerleştirilmesi",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Solunum yolu yabancı bir cisimle tıkanmış olan kazazede öksürüyor, nefes alabiliyor ve konuşabiliyorsa bu kazazedede aşağıdakilerden hangisinin olduğu düşünülür?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Koma",
+            "isCorrect": false
+          },
+          {
+            "text": "Kısmi tıkanma",
+            "isCorrect": true
+          },
+          {
+            "text": "Tam tıkanma",
+            "isCorrect": false
+          },
+          {
+            "text": "Solunum durması",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdakilerden hangisi şok belirtilerinden biri değildir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Huzursuzluk",
+            "isCorrect": false
+          },
+          {
+            "text": "Baş dönmesi",
+            "isCorrect": false
+          },
+          {
+            "text": "Dudak çevresinde morarma",
+            "isCorrect": false
+          },
+          {
+            "text": "Ciltte ısı artışı, kızarıklık ve kuruluk",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Burun kanaması olan kazazedeye yapılması gereken ilk yardım uygulaması hangisidir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Burun kanatlarının 5 dakika süre ile sıkılması",
+            "isCorrect": true
+          },
+          {
+            "text": "Yan yatış pozisyonuna getirilmesi",
+            "isCorrect": false
+          },
+          {
+            "text": "Başının geriye doğru itilmesi",
+            "isCorrect": false
+          },
+          {
+            "text": "Sırtüstü yatırılması",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdakilerden hangisi delici göğüs yaralanmalarında kazazedeye yapılan doğru bir ilk yardım uygulamasıdır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Ayaklarının yüksekte tutulup yüzüstü yatırılması",
+            "isCorrect": false
+          },
+          {
+            "text": "Bilinci açık ise yarı oturur duruma getirilmesi",
+            "isCorrect": true
+          },
+          {
+            "text": "Ağızdan ılık içecekler verilmesi",
+            "isCorrect": false
+          },
+          {
+            "text": "Batan cismin çıkarılması",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "İlk Yardım Soruları 03",
+    "description": "İlk yardım alanından her sınavda 12 soru gelmektedir.",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 3,
+    "questions": [
+      {
+        "text": "Aşağıdakilerden hangisi burkulmalarda yapılması gereken ilk yardım uygulamalarındandır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Sıkıştırıcı bir bandajla burkulan eklemin tespit edilmesi",
+            "isCorrect": true
+          },
+          {
+            "text": "Şişliği azaltmak için bölgenin vücut seviyesinden aşağıya indirilmesi",
+            "isCorrect": false
+          },
+          {
+            "text": "Burkulan eklem yüzeyinin sürekli hareket ettirilmesi",
+            "isCorrect": false
+          },
+          {
+            "text": "Boğucu sargı (turnike) uygulanması",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Koma durumundaki kazazedeye aşağıdaki pozisyonlardan hangisi verilmelidir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Şok pozisyonu",
+            "isCorrect": false
+          },
+          {
+            "text": "Sırtüstü yatış pozisyonu",
+            "isCorrect": false
+          },
+          {
+            "text": "Yarı yüzükoyun-yan pozisyon",
+            "isCorrect": true
+          },
+          {
+            "text": "Baş geride yarı oturuş pozisyonu",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdakilerden hangisi kazazedenin taşınmasında uyulması gereken genel kurallardandır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "İlk yardımcının kendi sağlığını riske sokması",
+            "isCorrect": false
+          },
+          {
+            "text": "İlk yardımcının kalkarken ağırlığı karın kaslarına vermesi",
+            "isCorrect": false
+          },
+          {
+            "text": "Kazazedenin mümkün olduğunca çok hareket ettirilmesi",
+            "isCorrect": false
+          },
+          {
+            "text": "Kazazedenin baş-boyun-gövde ekseni esas alınarak en az 6 destek noktasından kavranması",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "İlk değerlendirilmesi yapılan kazazedenin bilincinin kapalı olduğu ve solunumunun olmadığı belirlendiyse bu kazazedeye aşağıdaki ilk yardım uygulamalarından hangisi yapılmalıdır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Temel yaşam desteği uygulanmalıdır.",
+            "isCorrect": true
+          },
+          {
+            "text": "Yarı yüzükoyun-yan pozisyon verilmelidir.",
+            "isCorrect": false
+          },
+          {
+            "text": "Vücudu ıslak havlu ya da çarşafla sarılmalıdır.",
+            "isCorrect": false
+          },
+          {
+            "text": "Bir elin topuğu ile sırtına 5 kez süpürür tarzda vurulmalıdır.",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Kazazedelere baş geri-çene yukarı pozisyonu verilmesinin nedeni aşağıdakilerden hangisidir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Kusmayı sağlamak",
+            "isCorrect": false
+          },
+          {
+            "text": "Hava yolunu açmak",
+            "isCorrect": true
+          },
+          {
+            "text": "Kalp masajı yapmak",
+            "isCorrect": false
+          },
+          {
+            "text": "Bilinci değerlendirmek",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "İlk Yardım Soruları 04",
+    "description": "İlk yardım alanından her sınavda 12 soru gelmektedir.",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 3,
+    "questions": [
+      {
+        "text": "Yetişkinlerde temel yaşam desteği uygulaması ile ilgili olarak verilenlerden hangisi doğrudur?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Göğüs kemiği 3 cm aşağı inecek şekilde bası yapılması",
+            "isCorrect": false
+          },
+          {
+            "text": "Temel yaşam desteğine yapay solunum ile başlanması",
+            "isCorrect": false
+          },
+          {
+            "text": "30 kalp masajı, 2 yapay solunum şeklinde uygulanması",
+            "isCorrect": true
+          },
+          {
+            "text": "Kalp masajı hızının saatte 100 bası olacak şekilde ayarlanması",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Bir travma sonucu deri ya da mukozanın bütünlüğünün bozulmasına ne ad verilir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Şok",
+            "isCorrect": false
+          },
+          {
+            "text": "Yara",
+            "isCorrect": true
+          },
+          {
+            "text": "Koma",
+            "isCorrect": false
+          },
+          {
+            "text": "Koma",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Bilinci açık, kulağından kan gelen, göz çevresinde ve kulak arkasında morlukları olan kazazedeye, olay yerinde herhangi bir tehlike söz konusu değilse aşağıdaki ilk yardım uygulamalarından hangisi yapılmalıdır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Ayakları 45 cm yükseltilmeli",
+            "isCorrect": false
+          },
+          {
+            "text": "Başı 30 cm aşağıya indirilmeli",
+            "isCorrect": false
+          },
+          {
+            "text": "Hareket etmemesi sağlanmalı",
+            "isCorrect": true
+          },
+          {
+            "text": "Kulağı temiz bir bezle tıkanmalı",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdakilerden hangisi kırık, çıkık ve burkulmaların tespiti sırasında dikkat edilmesi gereken hususlardandır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Yaralı bölgenin düzeltilmeye çalışılması",
+            "isCorrect": false
+          },
+          {
+            "text": "Yara varsa üzerinin temiz bir bezle kapatılması",
+            "isCorrect": true
+          },
+          {
+            "text": "Tespit yapılırken yaralı bölgenin hareket ettirilmesi",
+            "isCorrect": false
+          },
+          {
+            "text": "Tespit edilecek bölgenin sadece sert malzeme ile kaplanması",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdakilerden hangisi ateşli havalede yapılan hatalı ilk yardım uygulamalarındandır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Karın ve göğüs bölgesi üzerine direkt olarak buz konulması",
+            "isCorrect": true
+          },
+          {
+            "text": "Musluk suyu ile ıslatılan havlu veya küçük bez parçalarıyla ateşi düşmüyorsa kazazedenin oda sıcaklığındaki su ile yıkanması",
+            "isCorrect": false
+          },
+          {
+            "text": "Kazazedenin koltuk altlarına, kasıklarına, dirseklerin iç yüzü ve avuç içlerine ıslak bez yerleştirilmesi",
+            "isCorrect": false
+          },
+          {
+            "text": "Kazazedenin giysilerinin çıkartılması",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Trafik Adabı Soruları 01",
+    "description": "Trafik adabı alanından her sınavda 6 soru gelmektedir.",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 4,
+    "questions": [
+      {
+        "text": "Sürücü, trafik içinde yapacağı bir kural ihlalinde kendisinin ya da sevdiklerinin canını tehlikeye attığının farkında olmalıdır. Bu farkındalığı kazanmak için yapılması gereken aşağıdakilerden hangisidir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Trafikteki her kuralın altında yatan güvenlik gerekçelerinin sorgulanıp öğrenilmesi",
+            "isCorrect": true
+          },
+          {
+            "text": "Kural ihlalinin sonucunda sadece maddi ceza olduğunun düşünülmesi",
+            "isCorrect": false
+          },
+          {
+            "text": "Karşılıklı saygının öncelikle başkalarından beklenmesi",
+            "isCorrect": false
+          },
+          {
+            "text": "Kızgın ve yarışmacı motivasyon ile araç kullanılması",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Sürücünün trafik ortamında yaptığı davranışlardan hangisi, diğer sürücülerin dikkatinin dağılmasına ya da paniğe kapılmalarına sebep olabilir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Davranışlarının sonuçlarını düşünerek hareket etmesi",
+            "isCorrect": false
+          },
+          {
+            "text": "Sürekli şerit değiştirerek (slalom yaparak) araç kullanması",
+            "isCorrect": true
+          },
+          {
+            "text": "Aracını kullanırken trafik kurallarının bilincinde olması",
+            "isCorrect": false
+          },
+          {
+            "text": "Trafik içindeki davranışlarının sorumluluğunu üstlenerek araç kullanması",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Ters yönden gelen bir sürücüye “Bu sokak tek yönlü, herhalde siz girişteki levhayı görmediniz, lütfen daha dikkatli olun.” diyen bir sürücü, trafikte aşağıdaki değerlerden hangisine uygun davranmıştır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "İnatlaşmaya",
+            "isCorrect": false
+          },
+          {
+            "text": "Aşırı tepki göstermeye",
+            "isCorrect": false
+          },
+          {
+            "text": "Kaba ve saldırgan davranmaya",
+            "isCorrect": false
+          },
+          {
+            "text": "Trafik kültüründe birbirini uyarmaya",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Geçilmekte olan araç sürücüsünün yavaşlayıp geçme yapan araca kolaylık sağlaması durumu, trafikte aşağıdaki değerlerden hangisiyle ifade edilir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Bencillik",
+            "isCorrect": false
+          },
+          {
+            "text": "İnatlaşmak",
+            "isCorrect": false
+          },
+          {
+            "text": "Diğergamlık",
+            "isCorrect": true
+          },
+          {
+            "text": "Sorumsuzluk",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdakilerden hangisinin trafikte öfke duygusuna kapılan sürücülerde görülme olasılığı diğer sürücülere göre daha fazladır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Dikkatin dağılması",
+            "isCorrect": true
+          },
+          {
+            "text": "Kural ihlallerinin azalması",
+            "isCorrect": false
+          },
+          {
+            "text": "Direksiyon hâkimiyetinin artması",
+            "isCorrect": false
+          },
+          {
+            "text": "Kazaya karışma olasılığının azalması",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Öndeki araç yol kenarına park etmeye çalışırken arkadan gelen diğer aracın onu beklemesi durumu, trafikte aşağıdaki değerlerden hangisine sahip olunduğunu gösterir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Öfke",
+            "isCorrect": false
+          },
+          {
+            "text": "Sabır",
+            "isCorrect": true
+          },
+          {
+            "text": "İnatlaşma",
+            "isCorrect": false
+          },
+          {
+            "text": "Aşırı tepki",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Trafik Adabı Soruları 02",
+    "description": "Trafik adabı alanından her sınavda 6 soru gelmektedir.",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 4,
+    "questions": [
+      {
+        "text": "Aşağıdaki değerlerden hangisine sahip olan sürücü, yoğun trafikte bir dizi hâlinde gitmekte olan diğer sürücülerin önlerine geçip trafiği daha da sıkışık hâle getirerek yoluna devam etmez?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Bencil",
+            "isCorrect": false
+          },
+          {
+            "text": "Sorumsuz",
+            "isCorrect": false
+          },
+          {
+            "text": "Görgü seviyesi düşük",
+            "isCorrect": false
+          },
+          {
+            "text": "Empati düzeyi yüksek",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Seyir hâlindeki sürücünün, yaptığı bir hatadan dolayı eliyle veya yüz ifadesiyle diğer sürücülerden özür dilemesi trafikte aşağıdakilerden hangisinin kullanıldığına örnek olur?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Beden dilinin",
+            "isCorrect": true
+          },
+          {
+            "text": "Bencilliğin",
+            "isCorrect": false
+          },
+          {
+            "text": "İnatlaşmanın",
+            "isCorrect": false
+          },
+          {
+            "text": "Tahammülsüzlüğün",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdakilerden hangisi trafikte bireye yapılan hak ihlallerindendir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Aşırı hız yapmaktan kaçınılması",
+            "isCorrect": false
+          },
+          {
+            "text": "Geçiş önceliğine sahip araçlara yol verilmesi",
+            "isCorrect": false
+          },
+          {
+            "text": "Trafikte sürücülerin tek başına olmadığının düşünülmesi",
+            "isCorrect": false
+          },
+          {
+            "text": "Engeli olmadığı hâlde engelli kişiler için ayrılmış yerlere park edilmesi",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdaki davranışlardan hangisi trafik adabına sahip bir sürücü için uygundur?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Trafik polisi yoksa kırmızı ışıkta geçmek",
+            "isCorrect": false
+          },
+          {
+            "text": "Sürekli şerit değiştirerek araç kullanmak",
+            "isCorrect": false
+          },
+          {
+            "text": "Denetim korkusu olmadan emniyet kemerini takmak",
+            "isCorrect": true
+          },
+          {
+            "text": "Elektronik denetleme sisteminin olmadığı yerlerde hız limitlerini aşmak",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdakilerden hangisi hoşgörülü olma özelliği taşımayan sürücülerin özelliklerindendir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Öfkeli olmak",
+            "isCorrect": true
+          },
+          {
+            "text": "Sabırlı davranmak",
+            "isCorrect": false
+          },
+          {
+            "text": "Başarılı iletişim kurmak",
+            "isCorrect": false
+          },
+          {
+            "text": "Kural ihlalinden kaçınmak",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdakilerden hangisi öfkenin vücutta ortaya çıkardığı fizyolojik tepkilerden biri değildir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Yüzün kızarması",
+            "isCorrect": false
+          },
+          {
+            "text": "Kaşların çatılması",
+            "isCorrect": false
+          },
+          {
+            "text": "Yumrukların sıkılması",
+            "isCorrect": false
+          },
+          {
+            "text": "Kontrollü davranılması",
+            "isCorrect": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Trafik Adabı Soruları 03",
+    "description": "Trafik adabı alanından her sınavda 6 soru gelmektedir.",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 4,
+    "questions": [
+      {
+        "text": "Trafikte kırmızı ışıkta beklerken ışık sarıya döner dönmez önündeki araca korna çalan, ışığın yeşile dönmesi için 1 saniye bile bekleyemeyen sürücünün bu davranışı için aşağıdakilerden hangisi söylenebilir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Saygılı",
+            "isCorrect": false
+          },
+          {
+            "text": "Telaşsız",
+            "isCorrect": false
+          },
+          {
+            "text": "Sorumlu",
+            "isCorrect": false
+          },
+          {
+            "text": "Sabırsız",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdaki temel değerlerden hangisini içselleştirmiş bir sürücü, trafikte kendinden çok başkalarını düşünür ve başkalarının iyiliği için fedakârlık yapar?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Bencillik",
+            "isCorrect": false
+          },
+          {
+            "text": "Diğergamlık",
+            "isCorrect": true
+          },
+          {
+            "text": "Nezaketsizlik",
+            "isCorrect": false
+          },
+          {
+            "text": "Hoşgörüsüzlük",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Sürücüler, beden dilini ve konuşma üslubunu da dikkate alarak trafik adabı açısından başarılı iletişim kurma becerilerini geliştirmek için aşağıdakilerden hangisini yapmalıdır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "İnsanların değişebildiğine inanmalıdır.",
+            "isCorrect": true
+          },
+          {
+            "text": "Dinlerken aynı zamanda değerlendirme eğiliminde olmalıdır.",
+            "isCorrect": false
+          },
+          {
+            "text": "Karşısındakinin kişiliğini sevmediğinde zihnini ona kapatmalıdır.",
+            "isCorrect": false
+          },
+          {
+            "text": "Tek bir olayın, birini anlamak için yeterli bir örnek olduğunu düşünmelidir.",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "- - - - ; trafik içinde sorumluluk, yardımlaşma, tahammül, saygı, fedakârlık, sabır vb. değerlere sahip olabilme yetisidir.\nVerilen ifadede boş bırakılan yere aşağıdakilerden hangisi yazılmalıdır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Beden dili",
+            "isCorrect": false
+          },
+          {
+            "text": "Konuşma üslubu",
+            "isCorrect": false
+          },
+          {
+            "text": "Trafik adabı",
+            "isCorrect": true
+          },
+          {
+            "text": "Trafikte hak ihlali",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdakilerden hangisi sorumluluk duygusuna sahip bir sürücünün özelliklerindendir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Trafik kurallarını önemsemeden araç kullanması",
+            "isCorrect": false
+          },
+          {
+            "text": "Davranışlarının sonuçlarını düşünerek hareket etmesi",
+            "isCorrect": true
+          },
+          {
+            "text": "Sevdiklerinin hayatını tehlikeye atmaktan çekinmemesi",
+            "isCorrect": false
+          },
+          {
+            "text": "Kendi yetki alanına giren herhangi bir olayı başkalarının üstlenmesini beklemesi",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aracını park ettikten sonra durduğu yerin diğer yol kullanıcıları açısından görme-görülme ya da manevra engeli oluşturup oluşturmadığını kontrol eden bir sürücünün bu davranışı trafikteki hangi değere uygundur?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Empati",
+            "isCorrect": true
+          },
+          {
+            "text": "Tahammül",
+            "isCorrect": false
+          },
+          {
+            "text": "Beden dili",
+            "isCorrect": false
+          },
+          {
+            "text": "Konuşma üslubu",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Trafik Adabı Soruları 04",
+    "description": "Trafik adabı alanından her sınavda 6 soru gelmektedir.",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 4,
+    "questions": [
+      {
+        "text": "Trafik adabı aşağıdakilerden hangisini belirler?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Trafik içinde hatalı davranış sergileyen sürücülerin uyarılmaması gerektiğini",
+            "isCorrect": false
+          },
+          {
+            "text": "Bir toplumdaki kişilerin birbirlerine karşı davranışlarıyla trafik ortamındaki davranışlarının farklı olduğunu",
+            "isCorrect": false
+          },
+          {
+            "text": "Öfkeli araç kullanmaya eğilimli olmak ile saldırgan sürücülük davranışlarının birbirleriyle ilişkili olmadığını",
+            "isCorrect": false
+          },
+          {
+            "text": "Trafik kurallarının kişiler tarafından ve her koşulda güvenliği sağlamak amacıyla uygulanıp uygulanmayacağını",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdakilerden hangisi trafik ortamında sürücülerin en fazla ihtiyaç duyacakları değerlerdendir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Öfke",
+            "isCorrect": false
+          },
+          {
+            "text": "Hoşgörü",
+            "isCorrect": true
+          },
+          {
+            "text": "İnatlaşma",
+            "isCorrect": false
+          },
+          {
+            "text": "Aşırı tepki",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Trafik ortamında bazen hak kendinizden yana iken bile bu hakkınızı diğer sürücüye vermek size bir şey kaybettirmeyeceği gibi daha huzurlu bir trafik ortamı sağlamaya katkıda bulunacaktır.\nYukarıdaki açıklama trafikteki temel değerlerden hangisine aittir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Sabırsızlık",
+            "isCorrect": false
+          },
+          {
+            "text": "Saldırganlık",
+            "isCorrect": false
+          },
+          {
+            "text": "Tahammülsüzlük",
+            "isCorrect": false
+          },
+          {
+            "text": "Feragat ve fedakârlık",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdakilerden hangisi, trafik denetim görevlileriyle iletişim kuran sürücünün trafik adabı açısından özen göstermesi gereken davranışlardandır?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Empati kurmaktan kaçınmak",
+            "isCorrect": false
+          },
+          {
+            "text": "Dinlemeyi etkin şekilde yapmamak",
+            "isCorrect": false
+          },
+          {
+            "text": "Karşısındaki kişiye saygı duyarak varlığını kabul etmek",
+            "isCorrect": true
+          },
+          {
+            "text": "Karşısındaki kişinin ne demek istediğini gözden geçirmek yerine akıl okumak",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Aşağıdaki davranışlardan hangisi trafikte bireye yapılan hak ihlallerinden biri değildir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Trafik kurallarına riayet edilmesi",
+            "isCorrect": true
+          },
+          {
+            "text": "En soldaki şeridin sürekli işgal edilmesi",
+            "isCorrect": false
+          },
+          {
+            "text": "Hız sınırlamalarının üstünde araç kullanılması",
+            "isCorrect": false
+          },
+          {
+            "text": "Engelli kişiler için ayrılmış yerlere park edilmesi",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Karlı havada zincir takmaya çalışan bir sürücünün sorununa, bu konuda daha deneyimli ve becerikli diğer bir sürücünün çözüm bulması, trafikte hangi temel değere sahip olunduğunu gösterir?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Trafik kültüründe birbirini uyarma",
+            "isCorrect": false
+          },
+          {
+            "text": "Kendini eleştirme",
+            "isCorrect": false
+          },
+          {
+            "text": "Yardımlaşma",
+            "isCorrect": true
+          },
+          {
+            "text": "İnatlaşma",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
+]
