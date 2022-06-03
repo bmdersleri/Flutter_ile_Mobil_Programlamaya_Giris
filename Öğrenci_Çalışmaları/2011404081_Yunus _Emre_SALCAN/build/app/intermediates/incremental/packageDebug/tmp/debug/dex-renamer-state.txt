@@ -1,0 +1,4 @@
+#Mon May 30 01:13:03 TRT 2022
+base.0=C\:\\Users\\yunus\\Downloads\\project\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
