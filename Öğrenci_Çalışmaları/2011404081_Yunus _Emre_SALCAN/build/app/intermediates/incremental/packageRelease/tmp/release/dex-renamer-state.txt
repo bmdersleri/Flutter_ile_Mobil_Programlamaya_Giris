@@ -1,0 +1,4 @@
+#Mon May 30 16:14:10 TRT 2022
+base.0=C\:\\Users\\yunus\\Downloads\\project\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
