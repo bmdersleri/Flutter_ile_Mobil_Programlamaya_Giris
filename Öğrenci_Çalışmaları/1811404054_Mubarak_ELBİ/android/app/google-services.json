@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "691112813789",
+    "project_id": "tald-85b62",
+    "storage_bucket": "tald-85b62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691112813789:android:8746d3e991bb430f84e734",
+        "android_client_info": {
+          "package_name": "com.taldo.tald"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691112813789-9vql24i0ind9h5651na3oupdabd5fldg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkUwLy4GvtJkrelRJitFgrjWHMs-WFrJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691112813789-9vql24i0ind9h5651na3oupdabd5fldg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
