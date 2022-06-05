@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546070851289",
+    "project_id": "gelirgider-takip-1b05b",
+    "storage_bucket": "gelirgider-takip-1b05b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546070851289:android:b8fbbbe3415bd7ea2118c8",
+        "android_client_info": {
+          "package_name": "com.example.vs_code_gelirgider_takip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546070851289-srjg1duttqd13taq61c4qcli295devmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Lo_hBRzpVIoa1U1Cs2ALgs6bTJU4U6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546070851289-srjg1duttqd13taq61c4qcli295devmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
