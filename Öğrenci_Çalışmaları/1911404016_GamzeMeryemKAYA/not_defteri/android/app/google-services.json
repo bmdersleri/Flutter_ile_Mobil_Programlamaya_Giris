@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "210792734232",
+    "project_id": "not-defteri-fd5a0",
+    "storage_bucket": "not-defteri-fd5a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210792734232:android:2961a7e80d7583463f6d6d",
+        "android_client_info": {
+          "package_name": "com.example.not_defteri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210792734232-4ah2ndgj8vcmfne5lfeiqincbihq28ta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-oGItMfEMx48aDBfu5JMT9IinaZpYqOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210792734232-4ah2ndgj8vcmfne5lfeiqincbihq28ta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
