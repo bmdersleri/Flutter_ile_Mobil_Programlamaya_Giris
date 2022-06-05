@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "503369679327",
+    "project_id": "hayvantakipsistemi1",
+    "storage_bucket": "hayvantakipsistemi1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503369679327:android:3f923a8bda1fc10edd446a",
+        "android_client_info": {
+          "package_name": "com.tugce_gokceoglu.hayvantakipsistemi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503369679327-06u1f60lsu6opu82p4ldj6g34r7euu27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tugce_gokceoglu.hayvantakipsistemi",
+            "certificate_hash": "0788e6091228ada2a28e86861038a3b597f9934a"
+          }
+        },
+        {
+          "client_id": "503369679327-an8kohosfj0j9938r00602vbctkp3s42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSbNr-R2Ra9qeq4GmDdxJGHT2mbjpU_-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503369679327-an8kohosfj0j9938r00602vbctkp3s42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
