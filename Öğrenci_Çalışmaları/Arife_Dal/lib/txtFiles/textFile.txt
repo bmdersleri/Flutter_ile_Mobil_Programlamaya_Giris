@@ -1,0 +1,1181 @@
+Kavram Yapısına İlişkin Özellikler
+
+Kavramın yapısal özellikleri, bir kavramın kendisinde var olan ve kavramı başka bir kavramdan ayırmayı sağlayan özelliklerdir. Kavram yapısına ilişkin özellikler şunlardır:
+
+    Kavramın kurallarının yapısı
+
+    Kavramın ilişkili ve ilişkisiz nitelikleri
+
+    Kavramın aşamalı olarak sınıflandırılması (kavramın taksonomisi)
+
+     Kavramın Kurallarının Yapısı
+
+     Kavramlar, kurallarla ilişkili özellikler taşır, yani kavramların özellikleri arasındaki bağlantılar ve onların fonksiyonlarını ortaya koyan kurallar bulunmaktadır. Bu kurallar kavramı tanımlamaktadır. Kurallar bazen yalın ve benzer nitelikler taşırken bazen de daha karmaşık ve öğretilmesi çok zor özelliklere sahip olabilir. Örneğin kedi, köpek hayvan kavramının birer üyesidir. Bu kavramların kuralları yalın ve objektif olduğu için öğretilmesi de kolaydır. Yakınlık, uzaklık veya asal sayılar gibi birbirinden farklı nitelikleri ve karmaşık kuralları olan kavramların öğrenilmesi oldukça zordur; yani benzer, yalın ve objektif niteliklerden veya kurallardan oluşan kavramların öğrenilmesi veya öğretilmesi,  karmaşık ve birbirinden  farklı  özelliklerden ve  kurallardan oluşan  kavramların öğrenilmesinden veya öğretilmesinden daha kolaydır.
+
+     Kavramın İlişkili ve İlişkisiz  Nitelikleri
+
+     Kavramın ilişkili (ayırıcı) nitelikleri, kavramın kendi yapısında var olan ve kavramı tanımlayan  niteliklerdir. Kavramın benzer özellilerini oluşturur. Örneğin “mavi” kavramının ilişkili niteliği mavinin rengidir. Kavramın ilişkisiz (ayırıcı olmayan) nitelikleri, kavramın kendisinde var olan ancak kavramı tanımlamayan niteliklerdir. Kavramın özelliklerinin farklı olmasını ve kavram örneklerinin artırılmasını sağlar. Örneğin “mavi” kavramının ilişkisiz nitelikleri, mavinin üzerinde olduğu nesnenin boyutları, biçimi ve malzemesidir. Kavramların ilişkili ve ilişkisiz niteliklerini birbirinden ayırmak zorlaştıkça, öğrenilmesi veya öğretilmesi de zorlaşır. Bu nedenle kavramlar öğretilirken, kavramların ilişkisiz nitelikleri  çok iyi belirlenmeli ve somut örneklerle sunulmalıdır; çünkü somutlaştırma, öğrenmenin daha kolay olmasını sağlar.
+
+Örnek:
+
+Kavram: Mavi
+
+İlişkili nitelik: Rengi
+
+İlişkisiz nitelik: Mavi düğme, mavi pil vb.
+
+     Mavi kapak, sarı mandal, kırmızı boncuk arasında maviyi göstermek, mavi kapak, sarı kapak, kırmızı kapak arasında göstermekten daha zordur.
+
+     Kavramın Taksonomik Düzeyi
+
+     Kavramların aşamalı olarak sınıflandırılmasıdır. Taksonomik düzey, bir kavramın kendi bünyesinde ne kadar kavram içerdiğini gösterir. Kavramın taksonomik düzeyi ne kadar yüksek olursa, kavram da o kadar karmaşık bir bilgi dizeyinde olur, yani aşama yükseldikçe ayırıcı nitelikler ayırıcı olmayan niteliklere dönüşür. Kavramın alt düzeyde olması öğrenmeyi ve öğretmeyi kolaylaştırır. Bitki, çiçekli bitki ve papatya kavramları aynı kavram hiyerarşisinin üyeleridir. Aşama olarak bitki en üst, papatya ise en alt seviyededir.
+
+Örnek:
+
+Kavram: Hayvan
+
+İlişkili nitelik: Canlı olması, beslenmesi, hareket etmesi vb.
+
+İlişkisiz nitelik: Evcil olması, köpek olması vb.
+
+Kavram: Evcil hayvan
+
+İlişkili nitelik: Ev ortamında yaşaması, eve bağlanması vb.
+
+İlişkisiz nitelik: Miyavlaması, kümeste yaşaması kedi olması köpek olması vb.
+
+Kavram: Köpek
+
+İlişkili nitelik: Havlaması kuyruğunun olması vb.
+
+İlişkisiz nitelik: Rengi, av köpeği olması süs köpeği olması vb.
+
+Kavram: Av köpeği
+
+ İlişkili nitelik: Avcılıkta kullanılması, havlaması vb.
+
+İlişkisiz nitelik: Beyaz veya siyah olması, iri veya küçük olması vb.
+
+Örnekte hayvan sıralamanın en üst seviyesinde, av köpeği ise en alt seviyede yer alır. Kavramın en üst düzeyindeki ilişkili nitelikler, kavramın diğer bütün alt basamakları için de geçerlidir. Kavramın en alt basamağında yer alan ilişkili nitelikler yukarı çıkıldıkça ilişkisiz niteliğe dönüşür.
+
+     Kavramın Sunulmasına İlişkin Özellikler
+
+Kavram özelliklerinin benzerliği.
+
+Kavramın olumlu ve olumsuz örnekleri.
+
+Örneklerin sırası.
+
+Sürekli çevrim.
+
+Yönergeler.
+
+Kavramın sunuşunda kullanılan öğretim yöntemleri.
+
+     Kavram Özelliklerinin  Benzerliği
+
+     Aynı anda sunulan farklı kavramların birbirine benzerliği öğretimi kolaylaştırır. Öğretim sırasında benzer ve yakın örneklere yer verilmelidir. Örneğin, kare öğretilirken birinci sunumda aynı ölçülerde, aynı malzemede ve aynı renkte iki şekil verilir. Sonraki sunumda nesne sayısı üçe çıkartılır. Bir sonraki sunumda ek olarak şekillerin boyutları değiştirilir.
+
+     Kavramın yakın ya da benzer nitelikleri ile yapılan öğretime karışık olmayan sunu denir. Birden fazla farklı kavramın aynı anda verildiği sunuya ise karışık sunu denir. Karışık sunuda örneklerin benzerliği az olduğu için öğretim güçleşir.
+
+     Kavramın Olumlu ve Olumsuz Örnekleri
+
+     Olumlu örnekler kavramı tanımlayan özellikleri belirler, olumsuz örnekler kavramı tanımlamayan özellikleri taşır. Örneğin, kare kavramı öğretiminde kırmızı kare, sarı kare olumlu örneklerdir; kırmızı üçgen, sarı üçgen olumsuz örneklerdir. Kavram öğretimi tek örnekle yapılamaz; çünkü tek örnekle yapılan sunuda, çocuk kavram hakkında birçok farklı düşünce edinebilir ve asıl öğretilmek istenen kavramı öğrenmesi imkansızlaşabilir. Örneğin, karenin öğretiminde kağıda çizilmiş kare, kartondan yapılmış kare, kumaştan yapılmış kare kullanıldığında, çocuk karenin birçok şeyi temsil ettiğini düşünebilir. Olumlu ve olumsuz örnekler kullanıldığında ve örnek sayısı arttırıldığında kavram ile ilgili düşünce sayısı azalır. Tek örnekli sunuda kare; kumaş olarak, kağıt olarak ve çizgi olarak düşünülebilir; fakat kartondan yapılmış kare ile birlikte kartondan yapılmış üçgen sunulduğunda, çocuk karenin çocuk karenin karton olmayacağı fikrine varır.
+
+     Olumlu örnekle olumsuz örnek arasındaki benzerlik ne kadar çok olursa öğretim de o kadar kolay olur. Sunulan bütün olumlu örneklerin ayırıcı olmayan niteliklerinin aynı olmasına dikkat edilmelidir. Ayrıca olumlu örnekteki ayırıcı nitelikler bütün örneklerde bulunmalı ve asla olumsuz örnekte yer almamalıdır. Kavram öğretimini kolaylaştırmak için hem olumlu hem de olumsuz örneklerin bir arada sunulması ve olabildiğince somutlaştırılması gerekir. Önce olumlu örnekler, sonra da olumsuz örnekler sunulabilir; ama örneklerin aynı anda sunulması öğretimi kolaylaştırır. Örneğin, bu kırmızıdır ama bu kırmızı değildir vb. Öğretim sırasında olumlu örneklere daha çok yer verilmelidir.
+
+     Örneklerin Sırası
+
+     Örnekler tek tek sunulurken önce olumlu ya da olumsuz örnek sunulabilir. Örneklerin kolaydan zora doğru sıralanmasına dikkat edilir. Sunulan örnek çocuğun tepkisinden sonra geri çekilir ve sonraki örnek sunulur. Bütün örneklerin bir arada gösterildiği sunumda örnekler geri çekilmez.
+
+     Karşılaştırmalı olmayan kavramların öğretiminde olumsuz örnekle başlanırsa, önce iki olumsuz örnek kullanılır, ardından üç olumlu örnek verilir ve bunu da bir olumsuz örnek izler. Daha sonra öğretimin seyrine göre olumlu ve olumsuz örneklerin sunusuna devam edilir. Olumlu örnekle başlanırsa, önce üç olumlu örnek, ardından iki olumsuz ve bunu da olumsuz bir örnek izler.
+
+     Karşılaştırmalı kavramların öğretiminde olumsuz örnekle başlanırsa, öncelikle bir başlangıç noktası belirlenir ve bu noktanın çok yüksek veya çok düşük olmamasına özen gösterilir. Olumlu ve olumsuz örnek sayıları, karşılaştırmalı olmayan kavramlarda sunulan örnek sayısı kadardır. Örnekler arasındaki farkın en az olması tercih edilir. Bütün sunumlarda öğretimin hemen ardından değerlendirme yapılır.
+
+     Sürekli Çevrim
+
+     Bir örneğin boyutunu değiştirerek yeni örnek oluşturma sürekli çevrim olarak adlandırılır. Sürekli çevrimin kullanılması örneklerde uygun değişikliği yapılmayı sağlar. Sürekli çevrimi kullanarak bir örnek oluşturulduğunda ardından gelen örnek, bu örneği değiştirerek oluşturulur(Tuncer, Atalay 2004). Kavaramın olumlu ve olumsuz örneği aynı materyalle yapılır. Örneğin eğik kavramının sunumunda, kalem önce dik tutularak olumsuz örnek oluşturulur ve “eğik değil” denilir, ardından kalem yatay hale getirilerek ikinci olumsuz örnek oluşturulur ve “eğik değil” denilir. Daha sonra kalem, sırayla üç farklı pozisyonda eğik tutularak olumlu örneğe dönüştürülür ve her defasında “eğik” denilir.
+
+
+
+     Yönergeler
+
+     Yönerge verme, çocuğa yaptırılmak istenen davranışı yapması için emir vermektir. Yönergeler açık ve sade olmalıdır; süslü ve nezaket bildiren sözcüklerden oluşan yönergeler, çocuklar tarafından anlaşılamayabilir. Kavram öğretiminde yönergeler seçilirken çok dikkatli olunmalıdır. Kullanılan yönergeleri çocuğun dikkatini yönergeye değil, kavrama çekmelidir. Sunulan örnekler için kullanılan ifadeler aynı kavramı temsil eden her örnek için aynı olmalıdır. Eğer her örnek için veya bir örnek için birden fazla tekrar durumunda yönergeler değiştirilirse, çocuğun dikkati yönergelere yönelir. Örneğin, birinci sunum için “bu kırmızı ama bu kırmızı değil” denildiğinde ikinci sunum içinde aynı ifadeler kullanılmalıdır. Eğer ikinci sunum için “bu kırmızı ama şu kırmızı değil” denilerek dikkatin yönergeye odaklanmasına yol açabilir. Doğal dille yapılan öğretimlerde yönergeler farklılaşabilir.
+
+
+
+KAVRAMIN SUNUSUNDA KULLANILAN YÖNTEMLER
+
+     Doğrudan öğretim yöntemi
+
+     Doğrudan öğretim yaklaşımı, tümdengelim ve açık anlatım yöntemi olarak da adlandırılır. Davranışçı ve bilişsel öğrenme kuramına dayanan bir yöntemdir. Zihin engelli çocukların bilişsel becerilerinin öğretimini hedefler; yani okuma-yazma, matematik, kavram ve iletişim becerilerinin öğretiminde kullanılır. Ayrıca sosyal beceri öğretim programlarının uygulanmasında yaygın olarak tercih edilir. Okulöncesi eğitiminde çocuklara özellikle kavram öğretmek amacıyla kullanılır. Materyallerin kullanımında sistematik olmayı gerektirdiği için tesadüflere yer verilmez.
+
+     Kavram öğretim süreci çocuğun performans düzeyinin belirlenmesi,  örnek ve materyallerin seçilmesi ve sunulması, gelişimin sürekli değerlendirilerek kayıt altına alınması, gerekli ipuçlarının sunulması, pekiştireç kullanılması gibi unsurlardan oluşur. Beceri öğretim süreci, programda yer alacak becerilerin belirlenmesi, çocuk için öncelikli olan becerilerin belirlenmesi öğretim özelliklerinin belirlenmesi ve beceri öğretimine başlanması gibi aşamalardan oluşur. Beceri öğretim süreci, becerinin çocuğa fark ettirilmesi, analiz edilmesi, model olma, rol oynama, tekrar edilmesi, genelleştirilmesi çocuğun performansının değerlendirilmesi gibi aşamaları kapsar.
+
+     Amaç, çocuğa hızlı bir biçimde kalıcı bilgi ve beceriler kazandırmaktır. Çevresel koşulların, öğrenmede birinci derece olduğu kabul edilir. Doğrudan öğretim modeli bu ilkeye dayandığı için, işe çevresel değişiklikler yaparak başlar. Bu yönteme göre çevresel koşullar oluşturulduktan sonra çocuğun öğrenmemesi söz konusu olamaz. Gelişimsel etkenlerin öğrenmede pek fazla etkisinin olmadığını savunur.
+
+     Öğretimde beklenen tepkiler alındığında olumlu geri bildirim verilmesi esastır. Olumlu tepkiler alınmadıkça öğretim sonlandırılamaz ve bir üst basamağa geçilemez. Bilgi ve beceriler çocuğun öğrenebileceği küçük parçalara bölünür. Öğretimin başında eğitimcinin yardımı fazladır ve öğrencinin öğrenme düzeyine paralel olarak yardım giderek azaltılır.
+
+     Basamaklandırılmış Yöntem
+
+     Doğrudan Öğretim Modelinden uyarlanmış bir yöntemdir. Bu model “yap”, “göster”, “söyle”, ve “yaz” basamaklarından oluşur. Eğitimci model olur ve çocuğun kendisini gözlemesi sağlanır. Eğitimci bilgi ve beceriye ilişkin açıklamalarda bulunur. Daha sonra çocuk aynısını yapar, gösterir, söyler ve yazar.
+
+     Amaç, çocuğun yapmasını, göstermesini sözlü ve yazılı olarak ifade etmesini sağlamaktır. Yanlış tepki durumunda sunu tekrar yapılır. Sununun basamakları kolaydan karmaşığa olacak biçimde önceden saptanır.
+
+Yap basamağı: Bu basamak eğitimci ile çocuk arasında bir yakınlaşma oluşturur ve çocuğun gruba katılımında ve grupla daha çabuk kaynaşmasında etkilidir. Gerçek nesnelere yer verilir ve çocukta gerçek nesnelerle yanıtını verir.
+
+Göster basamağı: Bu basamakta işlem ve becerilerin öğretiminde resimli kartlar kullanılır. Eğitimci çocuğa görsel bir uyaran verir ve çocuğun doğru geri bildirimde bulunmasını bekler.
+
+Söyle basamağı: İşlem ve becerilerin öğretiminde sözlü ifadeler kullanılır. Eğitimci çocuğa sembolik uyaranı sözlü olarak verir ve çocuğun doğru geri bildirimde bulunmasını bekler.
+
+Yaz basamağı: Bu basamakta işlem ve becerilerin öğretiminde rakamlar kullanılır. Sembolik uyaranı yazılı olarak verir ve çocuğun doğru geri bildirimde bulunmasını bekler.
+
+
+
+ÖLÇÜT BAĞIMLI TESTLER VE ÖĞRETİM PLANI
+
+     Kavramların sınıflanması
+
+     Renk kavramları: Kırmızı, mavi, sarı, yeşil, vb.
+
+     Şekil kavramları: Daire, kare, yıldız, üçgen vb.
+
+     Zıtlık kavramları: Sıcak-soğuk, açık- kapalı, vb.
+
+     Hareket kavramları: Yürümek, koşmak, kaldırmak vb.
+
+     İsim kavramları: İnsan isimleri, hayvanlar, bitkiler vb.
+
+     Önkoşul Davranışlar
+
+     Kavram öğretimine başlamak için çocuğun bazı önkoşul becerileri kazanmış olması gerekir.
+
+·         Eylem bildiren yönergeleri yapabilmedir. Örneğin, “al, ver, göster, otur, tut” vb. bazı yönergeleri anlamlı ve yerine getirmelidir.
+
+·         Eşleştirme yapabilmelidir. Örneğin, çocuğa gösterilen nesnenin aynısını, üç farklı nesne arasında bulup göstermelidir.
+
+     Çocuk bu becerilere sahipse kavram öğretimine başlanır şayet bunları yapamıyorsa, öncelikle bu beceriler kazandırılır.
+
+     Ölçü Araçlarının Kullanılması
+
+     Ölçü araçları kullanılmadan önce çocuğun kavramla ilgili ön koşul davranışları kazanıp kazanmadığına bakılmalıdır. Eğer ön koşul davranışları kazanmamışsa öncelikle ön koşul davranışlar öğretilmelidir. Ölçü araçları hazırlanırken, öğretilmesi amaçlanan konu veya kavramın analizi yapılmalıdır. Yani kavramın ilişkili ve ilişkisiz özellikleri belirlenmelidir. Her bildirimle ilgili materyalin diğerinden farklılık göstermesine dikkat edilmelidir.
+
+     Ölçü aracı ile bire bir çalışılmalı ve ortamın da sessiz olması gerekmektedir. Kayıt çizelgesi eğitimcinin kolaylıkla ulaşabileceği bir yerde olmalı ve her bildirimden sonra gerekli sütun işaretlenmelidir.
+
+
+
+             GEOMETRİK ŞEKİLLERİN ÖĞRETİM PLANI                                             (Her oturumda başlama ve bitirme tarihleri, oturum süresi belirtilir ve oturum sonunda değerlendirme yapılır.)
+
+1. Oturum
+
+Kavram: Daire
+
+Yöntem: Açık Anlatım Yöntemi (yapılandırılmış dil)
+
+Amaç: Aynı ölçülerde, aynı malzemeden yapılmış ve aynı renkte iki nesne arasında , “Daire olanı göster” diye yönerge verildiğinde daireyi gösterebilme.
+
+Materyal: 1.Set: Kahverengi muşambadan çapı 10 cm olan daire.
+
+Kahverengi muşambadan bir kenarı 10 cm olan kare.
+
+2. Set: Mavi el işi kağıdından bir çapı 7 cm olan daire.
+
+Mavi el işi kağıdından bir kenarı 7cm olan üçgen.
+
+3.Set: Siyah sert plastikten bir çapı 8 cm olan daire.
+
+Siyah sert plastikten bir kenarı 8cm olan yıldız.
+
+4.Set: Kırmızı kartondan çapı 2 cm olan daire.
+
+Kırmızı kartondan bir kenarı 2 cm olan kare.
+
+Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılır. Önce birinci set kutudan çıkartılıp masanın üzerine konur ve çocuğun dikkati materyallere çekilir. Çocuğun materyallere dokunmasına ve eline almasına 5-6 saniye izin verilir. Sonra çocuktan elini masadan çekmesi istenir. Çocuğa, “Seninle bugün daireyi çalışacağız” denir. Daire çocuğa gösterilerek , “Bu daire” denir ve masada çocuğun görebileceği bir yere bırakılır. Sonra kare gösterilerek , “Bu daire değil” denir. Daha sonra çocuğa “daire olanı göster” diye yönerge verilir ve 2-3 saniye beklenir. Çocuk doğru tepki verirse, sevdiği herhangi bir pekiştireç verilerek ödüllendirilir. “Daire olmayanı göster” diye ikinci yönerge verilir ve 2-3 saniye beklenir. Çocuk daire olmayanı gösterirse pekiştirilir.
+
+     Çocuk, yanlış tepki verdiğinde herhangi bir ipucu kullanmadan aynı materyallerle yeniden sunum yapılır. İkinci sunumda da yanlış tepki verirse, aynı setle doğru yanıt verinceye kadar öğretime devam edilir. Doğru tepki verdiğinde diğer materyal setine geçilir. Çocuğun doğru tepkileri bütün araç setlerinde ölçütü karşılayıncaya dek öğretime devam edilir. Her çalışmadan sonra daire olanlar çocuğun görebileceği şekilde masanın kenarına bırakılır, diğer şekillerde masada başka bir yere konur.
+
+
+
+2. Oturum
+
+Kavram: Daire
+
+Yöntem: Açık Anlatım Yöntemi (yapılandırılmış dil)
+
+Amaç: Aynı ölçülerde, aynı malzemeden yapılmış ve aynı renkte iki nesne arasında , “Daire olanı göster” diye yönerge verildiğinde daireyi gösterebilme.
+
+Materyal: 1.Set: Kahverengi muşambadan çapı 10 cm olan daire.
+
+Kahverengi muşambadan bir kenarı 10 cm olan kare.
+
+Kahverengi muşambadan bir kenarı 10cm olan üçgen.
+
+2. Set: Mavi el işi kağıdından bir çapı 7 cm olan daire.
+
+Mavi el işi kağıdından bir kenarı 7cm olan üçgen.
+
+Mavi el işi kağıdından bir kenarı 7 cm olan yıldız.
+
+3.Set: Siyah sert plastikten bir çapı 8 cm olan daire.
+
+Siyah sert plastikten bir kenarı 8 cm olan yıldız.
+
+Siyah sert plastikten bir kenarı 8 cm olan kare.
+
+4.Set: Kırmızı kartondan çapı 2 cm olan daire.
+
+Kırmızı kartondan bir kenarı 2 cm olan kare.
+
+Kırmızı kartondan bir kenarı 2 cm olan üçgen.
+
+Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılır. Önce birinci set kutudan çıkartılıp masanın üzerine konur ve çocuğun dikkati materyallere çekilir. Çocuğun materyallere dokunmasına ve eline almasına 5-6 saniye izin verilir. Sonra çocuktan elini masadan çekmesi istenir. Çocuğa, “Seninle bugün daireyi çalışacağız” denir. Daire çocuğa gösterilerek , “Bu daire” denir ve masada çocuğun görebileceği bir yere bırakılır. Sonra sırayla kare ve üçgen  gösterilerek , “Bu daire değil” denir. Daha sonra çocuğa “daire olanı göster” diye yönerge verilir ve 2-3 saniye beklenir. Çocuk doğru tepki verirse, sevdiği herhangi bir pekiştireç verilerek ödüllendirilir. “Daire olmayanı göster” diye ikinci yönerge verilir ve 2-3 saniye beklenir. Çocuk daire olmayanı gösterirse pekiştirilir.
+
+     Çocuk, yanlış tepki verdiğinde herhangi bir ipucu kullanmadan aynı materyallerle yeniden sunum yapılır. İkinci sunumda da yanlış tepki verirse, aynı setle doğru yanıt verinceye kadar öğretime devam edilir. Doğru tepki verdiğinde diğer materyal setine geçilir. Çocuğun doğru tepkileri bütün araç setlerinde ölçütü karşılayıncaya dek öğretime devam edilir. Her çalışmadan sonra daire olanlar çocuğun görebileceği şekilde masanın kenarına bırakılır, diğer şekillerde masada başka bir yere konur.
+
+3. Oturum
+
+Kavram: Daire
+
+Yöntem: Açık Anlatım Yöntemi (yapılandırılmış dil)
+
+Amaç: Aynı ölçülerde, aynı malzemeden yapılmış ve aynı renkte iki nesne arasında , “Daire”  olan gösterilip “Bu şeklin adı ne?”diye sorulduğunda “Daire” olduğunu söyleyebilme.
+
+Materyal: 1.Set: Kahverengi muşambadan çapı 9 cm olan daire.
+
+Kahverengi muşambadan bir kenarı 9 cm olan kare.
+
+2. Set: Mavi el işi kağıdından bir çapı 5 cm olan daire.
+
+Mavi el işi kağıdından bir kenarı 5 cm olan üçgen.
+
+3.Set: Siyah sert plastikten bir çapı 3 cm olan daire.
+
+Siyah sert plastikten bir kenarı 3cm olan yıldız.
+
+4.Set: Kırmızı kartondan çapı 6 cm olan daire.
+
+Kırmızı kartondan bir kenarı 6 cm olan kare.
+
+Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılır. Önce birinci set kutudan çıkartılıp masanın üzerine konur. Çocuğa “Seninle yine daireye çalışacağız” denir.  Çocuğun materyallere dokunmasına ve eline almasına 5-6 saniye izin verilir. Sonra çocuktan elini masadan çekmesi istenir. Daire çocuğa gösterilerek , “Bu daire” denir ve sonra kare gösterilerek “Bu daire değil” denir. Bütün şekiller çocuğun görebileceği ve gösterebileceği aralıklarla yan yana dizilir. Daha sonra çocuğa daire gösterilerek “Bu şeklin adı ne?” diye sorulur ve 2-3 saniye beklenir. Çocuk doğru tepki verirse, sevdiği herhangi bir pekiştireç verilerek ödüllendirilir. Çocuk, yanlış tepki verdiğinde herhangi bir ipucu kullanmadan aynı materyallerle yeniden sunum yapılır. İkinci sunumda da yanlış tepki verirse, aynı setle doğru yanıt verinceye kadar öğretime devam edilir. Doğru tepki verdiğinde diğer materyal setine geçilir. Çocuğun doğru tepkileri bütün araç setlerinde ölçütü karşılayıncaya dek öğretime devam edilir. Her çalışmadan sonra daire olanlar çocuğun görebileceği şekilde masanın kenarına bırakılır, diğer şekillerde masada başka bir yere konur.
+
+4. Oturum
+
+Kavram: Daire
+
+Yöntem: Açık Anlatım Yöntemi (yapılandırılmış dil)
+
+Amaç: Aynı ölçülerde, aynı malzemeden yapılmış ve aynı renkte iki nesne arasında , ‘Daire olanı göster’ diye yönerge verildiğinde daireyi gösterebilme.
+
+Materyal: 1.Set: Kahverengi tahtadan çapı 5 cm olan daire.
+
+Kahverengi tahtadan bir kenarı 9 cm olan kare.
+
+Kahverengi tahtadan bir kenarı 11 cm olan üçgen.
+
+2. Set: Mavi el işi ketenden bir çapı 6 cm olan daire.
+
+Mavi el işi ketenden bir kenarı 4 cm olan üçgen.
+
+Mavi el işi ketenden bir kenarı 5 cm olan dikdörtgen.
+
+3.Set: Siyah kumaştan bir çapı 10 cm olan daire.
+
+Siyah kumaştan bir kenarı 8 cm olan yıldız.
+
+Siyah kumaştan bir kenarı 8 cm olan dikdörtgen.
+
+4.Set: Kırmızı kartondan çapı 2 cm olan daire.
+
+Kırmızı kartondan bir kenarı 4 cm olan kare.
+
+Kırmızı kartondan bir kenarı 7 cm olan üçgen.
+
+Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılır. Önce birinci set kutudan çıkartılıp masanın üzerine konur ve çocuğun dikkati materyallere çekilir. Çocuğun materyallere dokunmasına ve eline almasına 5-6 saniye izin verilir. Sonra çocuktan elini masadan çekmesi istenir. Çocuğa, “Seninle bugün yine daireyi çalışacağız” denir. Daire çocuğa gösterilerek , “Bu daire” denir ve masada çocuğun görebileceği bir yere bırakılır. Sonra sırayla kare ve üçgen  gösterilerek , “Bu daire değil” denir. Daha sonra çocuğa “daire olanı göster” diye yönerge verilir ve 2-3 saniye beklenir. Çocuk doğru tepki verirse, sevdiği herhangi bir pekiştireç verilerek ödüllendirilir. “Daire olmayanı göster” diye ikinci yönerge verilir ve 2-3 saniye beklenir. Çocuk daire olmayanı gösterirse pekiştirilir.
+
+     Çocuk, yanlış tepki verdiğinde herhangi bir ipucu kullanmadan aynı materyallerle yeniden sunum yapılır. İkinci sunumda da yanlış tepki verirse, aynı setle doğru yanıt verinceye kadar öğretime devam edilir. Doğru tepki verdiğinde diğer materyal setine geçilir. Çocuğun doğru tepkileri bütün araç setlerinde ölçütü karşılayıncaya dek öğretime devam edilir. Her çalışmadan sonra daire olanlar çocuğun görebileceği şekilde masanın kenarına bırakılır, diğer şekillerde masada başka bir yere konur.
+
+5. Oturum
+
+Kavram: Daire
+
+Yöntem: Açık Anlatım Yöntemi (yapılandırılmış dil)
+
+Amaç: Aynı ölçülerde, aynı malzemeden yapılmış ve aynı renkte iki nesne arasında , ‘Daire olanı göster’ diye yönerge verildiğinde daireyi gösterebilme.
+
+Materyal: 1.Set: Kahverengi muşambadan çapı 10 cm olan daire.
+
+Kahverengi muşambadan bir kenarı 10 cm olan kare.
+
+2. Set: Mavi sert plastikten bir çapı 7 cm olan daire.
+
+Kırmızı el işi kağıdından bir kenarı 9 cm olan üçgen.
+
+3.Set: Siyah mukavvadan bir çapı 5 cm olan daire.
+
+Siyah temizlik bezinden bir kenarı 8cm olan yıldız.
+
+4.Set: Kırmızı kumaştan çapı 3 cm olan daire.
+
+Mavi el işi kağıdından kenarları 5-7 cm olan dikdörtgen.
+
+Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılır. Önce birinci set kutudan çıkartılıp masanın üzerine konur ve çocuğun dikkati materyallere çekilir. Çocuğun materyallere dokunmasına ve eline almasına 5-6 saniye izin verilir. Sonra çocuktan elini masadan çekmesi istenir. Çocuğa, “Seninle bugün yine daireye çalışacağız” denir. Daire çocuğa gösterilerek , “Bu daire” denir ve masada çocuğun görebileceği bir yere bırakılır. Sonra kare gösterilerek , “Bu daire değil” denir. Daha sonra çocuğa “daire olanı göster” diye yönerge verilir ve 2-3 saniye beklenir. Çocuk doğru tepki verirse, sevdiği herhangi bir pekiştireç verilerek ödüllendirilir. “Daire olmayanı göster” diye ikinci yönerge verilir ve 2-3 saniye beklenir. Çocuk daire olmayanı gösterirse pekiştirilir.
+
+     Çocuk, yanlış tepki verdiğinde herhangibi bir ipucu kullanmadan aynı materyallerle yeniden sunum yapılır. İkinci sunumda da yanlış tepki verirse, aynı setle doğru yanıt verinceye kadar öğretime devam edilir. Doğru tepki verdiğinde diğer materyal setine geçilir. Çocuğun doğru tepkileri bütün araç setlerinde ölçütü karşılayıncaya dek öğretime devam edilir. Her çalışmadan sonra daire olanlar çocuğun görebileceği şekilde masanın kenarına bırakılır, diğer şekillerde masada başka bir yere konur.
+
+6. Oturum
+
+Kavram: Daire
+
+Yöntem: Açık Anlatım Yöntemi (yapılandırılmış dil)
+
+Amaç: Aynı ölçülerde, aynı malzemeden yapılmış ve aynı renkte iki nesne arasında , “Daire”  olan gösterilip “Bu şeklin adı ne?”diye sorulduğunda “Daire” olduğunu söyleyebilme.
+
+Materyal: 1.Set: Kahverengi muşambadan çapı 10 cm olan daire.
+
+Siyah elişi kağıdından bir kenarı 6 cm olan yıldız.
+
+2. Set: Mavi sert plastikten bir çapı 7 cm olan daire.
+
+Kırmızı el işi kağıdından bir kenarı 9 cm olan üçgen.
+
+3.Set: Siyah mukavvadan bir çapı 5 cm olan daire.
+
+Sarı temizlik bezinden bir kenarı 8 cm olan yıldız.
+
+4.Set: Kırmızı kumaştan çapı 3 cm olan daire.
+
+Mavi el işi kağıdından kenarları 5-7 cm olan dikdörtgen.
+
+Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılır. Önce birinci set kutudan çıkartılıp masanın üzerine konur. Çocuğa “Seninle yine daireye çalışacağız” denir.  Çocuğun materyallere dokunmasına ve eline almasına 5-6 saniye izin verilir. Sonra çocuktan elini masadan çekmesi istenir. Daire çocuğa gösterilerek , “Bu daire” denir ve sonra yıldız gösterilerek “Bu daire değil” denir. Bütün şekiller çocuğun görebileceği ve gösterebileceği aralıklarla yan yana dizilir. Daha sonra çocuğa daire gösterilerek “Bu şeklin adı ne?” diye sorulur  ve 2-3 saniye beklenir. Çocuk doğru tepki verirse, sevdiği herhangi bir pekiştireç verilerek ödüllendirilir. Çocuk, yanlış tepki verdiğinde herhangi bir ipucu kullanmadan aynı materyallerle yeniden sunum yapılır. İkinci sunumda da yanlış tepki verirse, aynı setle doğru yanıt verinceye kadar öğretime devam edilir. Doğru tepki verdiğinde diğer materyal setine geçilir. Çocuğun doğru tepkileri bütün araç setlerinde ölçütü karşılayıncaya dek öğretime devam edilir. Her çalışmadan sonra daire olanlar çocuğun görebileceği şekilde masanın kenarına bırakılır, diğer şekillerde masada başka bir yere konur.
+
+
+
+7. Oturum
+
+Kavram: Daire
+
+Yöntem: Açık Anlatım Yöntemi (yapılandırılmış dil)
+
+Amaç: Aynı ölçülerde, aynı malzemeden yapılmış ve aynı renkte iki nesne arasında , “Daire olanı göster” diye yönerge verildiğinde daireyi gösterebilme.
+
+Materyal: 1.Set: Sarı temizlik bezinden çapı 4 cm olan daire.
+
+Siyah el işi kağıdından bir kenarı 8 cm olan yıldız.
+
+Beyaz tahtadan bir kenarı 2 cm olan üçgen.
+
+2. Set: Mavi sert plastikten bir çapı 6 cm olan daire.
+
+Kırmızı el işi kağıdından bir kenarı 8 cm olan üçgen.
+
+Siyah muşambadan kenarları 5-7 cm olan dikdörtgen .
+
+3.Set: Siyah mukavvadan bir çapı 9 cm olan daire.
+
+Sarı temizlik bezinden bir kenarı 6 cm olan yıldız.
+
+Mavi sert plastikten bir kenarı 8 cm olan kare.
+
+4.Set: Kırmızı kumaştan çapı 3 cm olan daire.
+
+Sarı plastikten bir kenarı 9 cm olan kare.
+
+Mavi el işi kağıdından kenarları 5-7 cm olan dikdörtgen.
+
+Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılır. Önce birinci set kutudan çıkartılıp masanın üzerine konur ve çocuğun dikkati materyallere çekilir. Çocuğun materyallere dokunmasına ve eline almasına 5-6 saniye izin verilir. Sonra çocuktan elini masadan çekmesi istenir. Çocuğa, “Seninle bugün yine daireyi çalışacağız” denir.Daire çocuğa gösterilerek, ‘Bu daire,’denir ve masada çocuğun görebileceği bir yere bırakılır.Sonra sırayla yıldız ve üçgen gösterilerek, “Bu daire değil” denir.Daha sonra çocuğa,’daire olanı göster,’diye yönerge verilir ve 2-3 saniye beklenir.Çocuk doğru tepki verirse, sevdiği herhangi bir pekiştireç verilerek ödüllendirilir.’Daire olmayanı göster,’ diye ikinci yönerge verilir ve 2-3 saniye beklenir.Çocuk daire olmayanı gösterirse,pekiştirilir.
+
+         Çocuk, yanlış tepki verdiğinde herhangi bir ipucu kullanmadan aynı materyallerle yeniden sunum yapılır. İkinci sunumda da yanlış tepki verirse, aynı setle doğru tepki verinceye kadar öğretime devam edilir. Doğru tepki verdiğinde diğer materyal setine geçilir. Çocuğun doğru tepkileri bütün araç setlerine ölçütü (daire ve daire olmayanları ¾ oranında) karşılaşıncaya dek öğretime devam edilir. Her çalışmadan sonra daire olanlar çocuğun görebileceği şekilde masanın bir kenarına bırakılır, diğer şekiller de masada başka bir yere konur.
+
+         8.Oturum
+
+         Kavram: Daire
+
+         Yöntem: Açık Anlatım Yöntemi(yapılandırılmış dil)
+
+         Amaç: Farklı ölçülerde, farklı renkte ve farklı malzemelerden yapılmış üç nesne arasında,’Daire’ olan gösterilip, ‘Bu şeklin adı ne?’ diye sorulduğunda ‘Daire’ olduğunu söyleyebilme.
+
+          Materyal: 1.Set: kahverengi muşambadan çapı 3 cm olan daire.
+
+          Siyah el işi kağıdından bir kenarı 6 cm olan yıldız.
+
+          Siyah sert plastikten kenarları 5-8 cm olan dikdörtgen.
+
+          2.Set: mavi sert plastikten çapı 5 cm olan daire.
+
+          Yeşil mukavvadan bir kenarı 9 cm olan kare.
+
+          Siyah deriden bir 7 cm olan üçgen.
+
+          3.Set: siyah mukavvadan çapı 5 cm olan daire.
+
+          Sarı temizlik bezinden bir kenarı 8 cm olan yıldız.
+
+          Beyaz fotokopi kağıdından bir kenarı 6 cm olan kare.
+
+          4.Set: kırmızı kumaştan çapı 3 cm olan daire.
+
+         Sarı plastikten bir kenarı 9 cm olan kare.
+
+          Mavi el işi kağıdından kenarları 6-9 cm olan dikdörtgen.
+
+          Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılır. Önce birinci set kutudan çıkartılıp masanın üzerine konur. Çocuğa.’Seninle yine daireyi çalışacağız.’denir. Çocuğun materyallere dokunmasına ve eline almasına 5-6 saniye izin verilir. Sonra çocuktan elini masadan çekmesi istenir. Çocuğa daire gösterilerek,’Bu daire.’denir. Sonra sırayla yıldız ve dikdörtgen gösterilerek ‘Bu daire değil,’denir. Bütün şekiller çocuğun görebileceği ve gösterebileceği aralıklarla yan yana dizilir.Daha sonra çocuğa daire gösterilerek,’Bu şeklin adı ne?’ diye sorular sorulur ve 2-3 saniye beklenir.Çocuk doğru tepki verirse,sevdiği herhangi bir pekiştireç verilerek ödüllendirilir.Çocuk yanıt vermezse ya da yanlış yanıt verirse,herhangi bir ipucu kullanmadan aynı materyallerle yeniden sunum yapılır.Çocuk ikinci sunumda da yanlış yanıt verirse veya tepkisiz kalırsa,aynı setle doğru yanıt verinceye kadar öğretime devam edilir.Doğru tepki verdiğinde diğer materyal setine geçilir.Çocuğun doğru tepkileri bütün araç setlerinde ölçütü(3/4 oranında)karşılaşıncaya dek öğretime devam edilir.Her çalışmadan sonra daireler çocuğun görebileceği şekilde masanın bir kenarına bırakılır,diğer şekiller de masada başka bir yere konur.
+
+        Öğretilmesi hedeflenen bütün geometrik şekiller yukarıdaki plan doğrultusunda öğretilir. Bir şekli kimi çocuk bir etkinlikte öğrenirken, kimi çocuk da üç ayda öğrenebilir. Bu nedenle acele edilmemeli. Sabırla çalışmaya devam edilmelidir. Şekiller öğretildikten sonra kağıt üzerine çizilerek çalışılmalıdır. Daha sonra çevredeki nesneler sorularak ‘Bu neye benziyor?’ veya “Benzeyen şekil hangisidir?”  gibi sorularla çocuğun bilgisinin genelleşmesi ve çocuğun çevresini daha iyi tanıması sağlanmalıdır.
+
+                                          Renk Kavramının Öğretim Planı
+
+          Önce ana renkler öğretilir, sonra ara renklere geçilir. Renklerden sadece sarı renginin öğretim aşamaları üzerinde durulacaktır; diğer renklerin öğretilmesinde aynı işlem basamakları takip edilir.
+
+           1.Oturum
+
+           Kavram: Sarı
+
+           Yöntem: Açık Anlatım Yöntemi(yapılandırılmış dil)
+
+           Amaç: Aynı türde ve ayrı renkte iki nesne arasında,’Sarı renkte olanı göster,’ denildiğinde sarı olanı gösterebilme.
+
+           Materyal: 1.Set:1 adet sarı el işi kağıdı
+
+           1 adet mavi el işi kağıdı
+
+           2.Set:1 adet sarı pet şişe kapağı
+
+           1 adet kırmızı pet şişe kapağı
+
+           3.Set:1 adet sarı yapboz parçası
+
+           1 adet kahverengi yapboz parçası                        
+
+           4.Set:1 adet sarı düğme
+
+           1 adet yeşil düğme
+
+            Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılır. Önce birinci set kutudan çıkartılıp masanın üzerine konur. Çocuğa,’Seninle bugün sarı rengi çalışacağız,’denir. Çocuğun materyale dokunmasına ve eline almasına 5-6 saniye izin verilir. Sonra çocuktan elini masadan çekmesi istenir.Çocuğa sarı elişi kağıdı gösterilerek ‘Bu sarı değil,’denir.Daha sonra çocuğa sarı olanı göster diye yönerge verilir ve 2-3 saniye beklenir.Çocuk doğru tepki verirse,sevdiği herhangi bir nesne veya sosyal bir pekiştireç verilir.’Sarı olmayanı göster,’diye ikinci yönerge verilir ve 2-3 saniye beklenir.Çocuk sarı olmayanı gösterirse pekiştirilir.
+
+            Çocuk, yanlış tepki verdiğinde herhangi bir ipucu kullanmadan aynı materyallerle yeniden sunum yapılır. Çocuk ikinci sunumda da yanlış tepki verirse aynı setle doğru tepki verinceye kadar öğretime devam edilir. Doğru tepki verdiğinde diğer materyal setine geçilir. Çocuğun doğru tepkileri bütün araç setlerinde ölçütü(sarı ve sarı olmayanları 3/3 oranında)karşılaşıncaya kadar öğretime devam edilir.
+
+            Öğretim esnasında çocuğun sıkıldığı hissedilirse, yeteri kadar ara verilir ve aradan sonra öğretime devam edilir. Her çalışmadan sonra sarı nesneler çocuğun görebileceği şekilde masanın bir kenarına bırakılır, diğer renkteki nesneler de masada başka bir yere konur.
+
+1.      Oturum
+
+
+
+           Kavram: Sarı
+
+           Yöntem: Açık Anlatım Yöntemi(yapılandırılmış dil)
+
+ Amaç: Aynı türde ve ayrı renkte iki nesne arasında,’Sarı renkte olanı göster,’ denildiğinde sarı olanı gösterebilme
+
+  Materyal: 1.Set:1 adet sarı mandal
+
+   1 adet turuncu mandal
+
+   1 adet kırmızı mandal
+
+   2.Set:1 adet sarı kale
+
+   1 adet kahverengi kalem
+
+   1 adet kırmızı kalem
+
+   3.Set:1 adet sarı boncuk
+
+  1 adet mavi boncuk
+
+  1 adet yeşil boncuk
+
+  4.Set:1 adet sarı kapak
+
+  1 adet pembe kapak
+
+  1 adet siyah kapak
+
+  Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılır. Önce birinci set kutudan çıkartılıp masanın üzerine konur. Çocuğa, yine sarı rengi çalışacağız,’denir. Çocuğun materyallere dokunmasına ve eline almasına 5-6 saniye izin verilir. Sonra çocuktan elini masadan çekmesi istenir. Çocuğa sarı mandal gösterilerek, “Bu sarı” denir. Sonra sırayla turuncu ve kırmızı mandal göstererek bu sarı değil denir. Bütün nesneler çocuğun görebileceği ve gösterebileceği aralıklarla yan yana dizilir. Daha sonra çocuğa,’sarı olanı göster diye yönerge verilir ve 2-3 saniye beklenir. Çocuk doğru tepki verirse sevdiği herhangi bir pekiştireç verilir. Sarı olmayanı göster diye ikinci yönerge verilir ve 2-3 saniye beklenir. Çocuk sarı olmayanı gösterirse pekiştirilir.
+
+Çocuk yanlış tepki verdiğinde herhangi bir ipucu kullanmadan aynı materyallerle yeniden sunum yapılır. Çocuk ikinci sunumda da yanlış tepki verirse aynı setle doğru tepki verinceye kadar öğretime devam edilir. Doğru tepki verdiğinde diğer materyal setine geçilir. Çocuğun doğru tepkileri bütün araç setlerinde ölçütü (sarı ve sarı olmayanı ¾ oranında)karşılayıncaya dek öğretime devam edilir. Her çalışmadan sonra sarı nesneler çocuğun görebileceği şekilde masanın bir kenarına bırakılır, diğer renkteki nesneler de masada başka bir yere konur.
+
+1.      Oturum
+
+           Kavram:Sarı
+
+           Yöntem:Açık Anlatım Yöntemi(yapılandırılmış dil)
+
+ Amaç:Aynı türde ve ayrı renkte iki nesne arasında,’Sarı renkte olanı göster,’ denildiğinde sarı olanı gösterebilme
+
+  Materyal:1.Set:1 adet sarı silgi
+
+  1 adet mavi sisli
+
+  1 adet turuncu silgi
+
+  1 adet yeşil silgi
+
+  2.Set:1 adet sarı kalemtıraş
+
+  1 adet  beyaz kalemtıraş
+
+  1 adet kahverengi kalemtıraş
+
+  1 adet yeşil kalemtıraş
+
+  3.Set:1 adet sarı küçük top
+
+  1 adet yeşil küçük top
+
+  1 adet pembe küçük top
+
+  1 adet siyah küçük top
+
+  4.Set:1 adet sarı kapak
+
+  1 adet mavi kapak
+
+  1 adet kırmızı kapak
+
+  1 adet yeşil kapak
+
+  Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılır. Önce birinci set kutudan çıkartılıp masanın üzerine konur.Çocuğa,’Seninle bugün sarı rengi çalışacağız,’denir.Çocuğun materyale dokunmasına ve eline almasına 5-6 saniye izin verilir.Sonra çocuktan elini masadan çekmesi istenir.Çocuğa sarı silgi gösterilerek bu sarı denir.Sonra sırayla mavi,turuncu ve yeşil silgi gösterilerek bu sarı değil denir. Bütün nesneler çocuğun görebileceği ve gösterebileceği aralıklarla yan yana dizilir. Daha sonra çocuğa,’sarı olanı göster diye yönerge verilir ve 2-3 saniye beklenir. Çocuk doğru tepki verirse sevdiği herhangi bir pekiştireç verilir. Sarı olmayanı göster diye ikinci yönerge verilir ve 2-3 saniye beklenir. Çocuk doğru tepki verirse sevdiği herhangi bir pekiştireç verilir. Sarı olmayanı göster diye ikinci yönerge verilir ve 2-3 saniye beklenir. Çocuk sarı olmayanı gösterirse pekiştirilir.
+
+Çocuk yanlış tepki verdiğinde herhangi bir ipucu kullanmadan aynı materyallerle yeniden sunum yapılır. Çocuk ikinci sunumda da yanlış tepki verirse aynı setle doğru tepki verinceye kadar öğretime devam edilir. Doğru tepki verdiğinde diğer materyal setine geçilir. Çocuğun doğru tepkileri bütün araç setlerinde ölçütü(sarı ve sarı olmayanı ¾ oranında)karşılayıncaya dek öğretime devam edilir.
+
+Öğretim esnasında çocuğun sıkıldığı hissedilirse, yeteri kadar ara verilir ve aradan sonra öğretime devam edilir. Her çalışmadan sonra sarı nesneler çocuğun görebileceği şekilde masanın bir kenarına bırakılır, diğer renkteki nesneler de masanın başka bir yerine konur.
+
+2.      Oturum
+
+           Kavram: Sarı
+
+           Yöntem: Açık Anlatım Yöntemi(yapılandırılmış dil)
+
+ Amaç: Aynı türde ve ayrı renkte iki nesne arasında,’Sarı renkte olanı göster,’     denildiğinde sarı olanı gösterebilme
+
+           Materyal: 1.Set:1 adet büyük sarı düğme
+
+  1 adet mavi küçül düğme
+
+  2.Set:1 adet küçük sarı kapak
+
+  1 adet büyük kırmızı kapak
+
+  3.Set:1 adet büyük sarı boncuk
+
+  1 adet küçük yeşil boncuk
+
+  4.Set:1 adet büyük sarı yapboz
+
+  1 adet küçük siyah yapboz
+
+   Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılır. Önce birinci set kutudan çıkartılıp masanın üzerine konur.Çocuğa,’Seninle bugün sarı rengi çalışacağız,’denir.Çocuğun materyale dokunmasına ve eline almasına 5-6 saniye izin verilir.Sonra çocuktan elini masadan çekmesi istenir.Çocuğa büyük sarı düğme gösterilerek bu sarı denir.Sonra küçük mavi düğme gösterilerek bu sarı değil denir. Bütün nesneler çocuğun görebileceği ve gösterebileceği aralıklarla yan yana dizilir. Daha sonra çocuğa,’sarı olanı göster diye yönerge verilir ve 2-3 saniye beklenir. Çocuk doğru tepki verirse sevdiği herhangi bir pekiştireç verilir.Sarı olmayanı göster diye ikinci yönerge verilir ve 2-3 saniye beklenir.Çocuk doğru tepki verirse sevdiği herhangi bir pekiştireç verilir. Sarı olmayanı göster diye ikinci yönerge verilir ve 2-3 saniye beklenir. Çocuk sarı olmayanı gösterirse pekiştirilir.
+
+Çocuk yanlış tepki verdiğinde herhangi bir ipucu kullanmadan aynı materyallerle yeniden sunum yapılır. Çocuk ikinci sunumda da yanlış tepki verirse aynı setle doğru tepki verinceye kadar öğretime devam edilir. Doğru tepki verdiğinde diğer materyal setine geçilir. Çocuğun doğru tepkileri bütün araç setlerinde ölçütü(sarı ve sarı olmayanı ¾ oranında)karşılayıncaya dek öğretime devam edilir.
+
+Öğretim esnasında çocuğun sıkıldığı hissedilirse, yeteri kadar ara verilir ve aradan sonra öğretime devam edilir. Her çalışmadan sonra sarı nesneler çocuğun görebileceği şekilde masanın bir kenarına bırakılır, diğer renkteki nesneler de masanın başka bir yerine konur.
+
+3.      Oturum
+
+
+
+           Kavram: Sarı
+
+           Yöntem: Açık Anlatım Yöntemi(yapılandırılmış dil)
+
+ Amaç: Aynı türde ve ayrı renkte iki nesne arasında,’Sarı renkte olanı göster,’     denildiğinde sarı olanı gösterebilme
+
+  Materyal:1.Set:1 adet büyük boy sarı top
+
+1 adet orta boy mavi top
+
+1 adet küçük boy pembe top
+
+2.Set:1 adet orta boy sarı yapboz
+
+1 adet büyük boy yeşil yapboz
+
+1 adet küçük boy kırmızı yapboz
+
+3.Set:1 adet küçük boy sarı kağıt
+
+1 adet orta boy siyah kağıt
+
+1 adet büyük boy turuncu kağıt
+
+4.Set:1 adet küçük boy sarı düğme
+
+1 adet orta boy turuncu düğme
+
+1 adet büyük boy kahverengi düğme
+
+Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılır.Önce birinci set kutudan çıkartılıp masanın üzerine konur. Çocuğa, “Seninle bugün sarı rengi çalışacağız” denir. Çocuğun materyale dokunmasına ve eline almasına 5-6 saniye izin verilir. Sonra çocuktan elini masadan çekmesi istenir. Çocuğa büyük boy sarı top gösterilerek bu sarı denir. Sonra sırayla orta boy mavi topu ve küçük boy pembe top gösterilerek bu sarı değil denir. Bütün nesneler çocuğun görebileceği ve gösterebileceği aralıklarla yan yana dizilir. Daha sonra çocuğa,’sarı olanı göster diye yönerge verilir ve 2-3 saniye beklenir. Çocuk doğru tepki verirse sevdiği herhangi bir pekiştireç verilir. Sarı olmayanı göster diye ikinci yönerge verilir ve 2-3 saniye beklenir. Çocuk doğru tepki verirse sevdiği herhangi bir pekiştireç verilir. Sarı olmayanı göster diye ikinci yönerge verilir ve 2-3 saniye beklenir. Çocuk sarı olmayanı gösterirse pekiştirilir.
+
+Çocuk yanlış tepki verdiğinde herhangi bir ipucu kullanmadan aynı materyallerle yeniden sunum yapılır. Çocuk ikinci sunumda da yanlış tepki verirse aynı setle doğru tepki verinceye kadar öğretime devam edilir. Doğru tepki verdiğinde diğer materyal setine geçilir. Çocuğun doğru tepkileri bütün araç setlerinde ölçütü(sarı ve sarı olmayanı ¾ oranında)karşılayıncaya dek öğretime devam edilir.
+
+Öğretim esnasında çocuğun sıkıldığı hissedilirse, yeteri kadar ara verilir ve aradan sonra öğretime devam edilir. Her çalışmadan sonra sarı nesneler çocuğun görebileceği şekilde masanın bir kenarına bırakılır, diğer renkteki nesneler de masanın başka bir yerine konur.
+
+4.      Oturum
+
+           Kavram: Sarı
+
+           Yöntem: Açık Anlatım Yöntemi(yapılandırılmış dil)
+
+ Amaç: Aynı türde ve ayrı renkte iki nesne arasında,’Sarı renkte olanı göster,’     denildiğinde sarı olanı gösterebilme
+
+Materyal:1.Set:1 adet büyük boy sarı tahta parçası
+
+1 adet orta boy mavi tahta parçası
+
+1 adet küçük boy kırmızı tahta parçası
+
+1 adet daha küçük boy yeşil tahta parçası
+
+2.Set:1 adet büyük boy sarı pil
+
+1 adet orta boy siyah pil
+
+1 adet küçük boy pembe pil
+
+1 adet daha küçük boy yeşil pil
+
+3.Set:1 adet büyük boy sarı boncuk
+
+1 adet orta boy mavi boncuk
+
+1 adet küçük boy kahverengi boncuk
+
+1 adet daha küçük boy boncuk
+
+4.Set:1 adet büyük boy sarı yapboz
+
+1 adet orta boy yeşil yapboz
+
+1 adet küçük boy siyah yapboz
+
+1 adet daha küçük boy mavi yapboz
+
+Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılır. Önce birinci set kutudan çıkartılıp masanın üzerine konur.Çocuğa,’Seninle bugün sarı rengi çalışacağız,’denir. Çocuğun materyale dokunmasına ve eline almasına 5-6 saniye izin verilir. Sonra çocuktan elini masadan çekmesi istenir. Çocuğa büyük boy sarı tahta parçası gösterilerek bu sarı denir. Sonra sırayla orta boy mavi, küçük boy pembe ve daha küçük boy kırmızı tahta parçası gösterilerek bu sarı değil denir. Bütün nesneler çocuğun görebileceği ve gösterebileceği aralıklarla yan yana dizilir. Daha sonra çocuğa,’sarı olanı göster diye yönerge verilir ve 2-3 saniye beklenir. Çocuk doğru tepki verirse sevdiği herhangi bir pekiştireç verilir. Sarı olmayanı göster diye ikinci yönerge verilir ve 2-3 saniye beklenir. Çocuk doğru tepki verirse sevdiği herhangi bir pekiştireç verilir. Sarı olmayanı göster diye ikinci yönerge verilir ve 2-3 saniye beklenir. Çocuk sarı olmayanı gösterirse pekiştirilir.
+
+Çocuk yanlış tepki verdiğinde herhangi bir ipucu kullanmadan aynı materyallerle yeniden sunum yapılır. Çocuk ikinci sunumda da yanlış tepki verirse aynı setle doğru tepki verinceye kadar öğretime devam edilir. Doğru tepki verdiğinde diğer materyal setine geçilir. Çocuğun doğru tepkileri bütün araç setlerinde ölçütü(sarı ve sarı olmayanı ¾ oranında)karşılayıncaya dek öğretime devam edilir.
+
+Öğretim esnasında çocuğun sıkıldığı hissedilirse, yeteri kadar ara verilir ve aradan sonra öğretime devam edilir. Her çalışmadan sonra sarı nesneler çocuğun görebileceği şekilde masanın bir kenarına bırakılır, diğer renkteki nesneler de masanın başka bir yerine konur.
+
+5.      Oturum
+
+           Kavram: Sarı
+
+           Yöntem: Açık Anlatım Yöntemi(yapılandırılmış dil)
+
+ Amaç: Aynı türde ve ayrı renkte iki nesne arasında,’Sarı renkte olanı göster,’     denildiğinde sarı olanı gösterebilme
+
+ Materyal: 1.Set:1 adet sarı düğme
+
+1 adet mavi kapak
+
+2.Set:1 adet sarı boncuk
+
+1 adet kırmızı pil
+
+3.Set:1 adet sarı tahta
+
+1 adet yeşil elişi kağıdı
+
+4.Set:1 adet sarı balon
+
+1 adet kahverengi yapboz
+
+Uygulama: (1. amaç)Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılır.Önce birinci set kutudan çıkartılıp masanın üzerine konur.Çocuğa,’Seninle bugün sarı rengi çalışacağız,’denir.Çocuğun materyale dokunmasına ve eline almasına 5-6 saniye izin verilir.Sonra çocuktan elini masadan çekmesi istenir.Çocuğa sarı düğme gösterilerek bu sarı denir.Sonra mavi kapak gösterilerek bu sarı değil denir. Bütün nesneler çocuğun görebileceği ve gösterebileceği aralıklarla yan yana dizilir. Daha sonra çocuğa,’sarı olanı göster diye yönerge verilir ve 2-3 saniye beklenir. Çocuk doğru tepki verirse sevdiği herhangi bir pekiştireç verilir. Sarı olmayanı göster diye ikinci yönerge verilir ve 2-3 saniye beklenir. Çocuk doğru tepki verirse sevdiği herhangi bir pekiştireç verilir. Sarı olmayanı göster diye ikinci yönerge verilir ve 2-3 saniye beklenir. Çocuk sarı olmayanı gösterirse pekiştirilir.
+
+Çocuk yanlış tepki verdiğinde herhangi bir ipucu kullanmadan aynı materyallerle yeniden sunum yapılır. Çocuk ikinci sunumda da yanlış tepki verirse aynı setle doğru tepki verinceye kadar öğretime devam edilir. Doğru tepki verdiğinde diğer materyal setine geçilir. Çocuğun doğru tepkileri bütün araç setlerinde ölçütü(sarı ve sarı olmayanı ¾ oranında)karşılayıncaya dek öğretime devam edilir.
+
+(2. amaç)Masanın üzerindeki bütün materyal setleri kutuya konulur ve birinci set çıkartılarak masanın üzerine konulur. Sarı düğme gösterilerek bu sarı denir. Sonra mavi kapak gösterilerek bu sarı değil denir. Daha sonra sarı düğme gösterilerek bu ne renk diye sorulur, çocuk sarı diye yanıt verirse sevdiği herhangi bir pekiştireç vererek ödüllendirilir.Çocuk yanıt vermezse ya da yanlış yanıt verirse herhangi bir ipucu kullanmadan aynı materyallerle yeniden sunum yapılır.Çocuk ikinci sunumda da yanlış yanıt verirse veya tepkisiz kalırsa aynı setle doğru tepki verinceye kadar öğretime devam edilir.Doğru tepki verdiğinde diğer materyal setine geçilir.Çocuğun doğru tepkileri bütün araç setlerinde ölçütü(3/4 oranında) karşılayıncaya dek öğretime devam edilir.
+
+Öğretim esnasında çocuğun sıkıldığı hissedilirse, yeteri kadar ara verilir ve aradan sonra öğretime devam edilir. Her çalışmadan sonra sarı nesneler çocuğun görebileceği şekilde masanın bir kenarına bırakılır,diğer renkteki nesneler de masanın başka bir yerine konur.
+
+ 8.Oturum
+
+           Kavram: Sarı
+
+           Yöntem: Açık Anlatım Yöntemi(yapılandırılmış dil)
+
+ Amaç: Aynı türde ve ayrı renkte iki nesne arasında,’Sarı renkte olanı göster,’       denildiğinde sarı olanı gösterebilme
+
+ Materyal: 1.Set:1 adet sarı kalem
+
+1 adet mavi düğme
+
+1 adet yeşil tahta parçası
+
+2.Set:1 adet sarı kapak
+
+1 adet kırmızı tabak
+
+1 adet siyah pil
+
+3.Set:1 adet sarı boncuk
+
+1 adet kahverengi top
+
+1 adet pembe kağıt
+
+4.Set:1 adet sarı toka
+
+1 adet siyah bilye
+
+1 adet kırmızı bebek
+
+Uygulama: (1. amaç)Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılır.Önce birinci set kutudan çıkartılıp masanın üzerine konur.Çocuğa,’Seninle bugün sarı rengi çalışacağız,’denir.Çocuğun materyale dokunmasına ve eline almasına 5-6 saniye izin verilir.Sonra çocuktan elini masadan çekmesi istenir.Çocuğa sarı kalem gösterilerek bu sarı denir.Sonra mavi kapak ve yeşil tahta parçası gösterilerek bu sarı değil denir. Bütün nesneler çocuğun görebileceği ve gösterebileceği aralıklarla yan yana dizilir. Daha sonra çocuğa,’sarı olanı göster diye yönerge verilir ve 2-3 saniye beklenir.Çocuk doğru tepki verirse sevdiği herhangi bir pekiştireç verilir.Sarı olmayanı göster diye ikinci yönerge verilir ve 2-3 saniye beklenir.Çocuk doğru tepki verirse sevdiği herhangi bir pekiştireç verilir. Sarı olmayanı göster diye ikinci yönerge verilir ve 2-3 saniye beklenir. Çocuk sarı olmayanı gösterirse pekiştirilir.
+
+Çocuk yanlış tepki verdiğinde herhangi bir ipucu kullanmadan aynı materyallerle yeniden sunum yapılır. Çocuk ikinci sunumda da yanlış tepki verirse aynı setle doğru tepki verinceye kadar öğretime devam edilir. Doğru tepki verdiğinde diğer materyal setine geçilir. Çocuğun doğru tepkileri bütün araç setlerinde ölçütü(sarı ve sarı olmayanı ¾ oranında)karşılayıncaya dek öğretime devam edilir.
+
+(2. amaç)Masanın üzerindeki bütün materyal setleri kutuya konulur ve birinci set çıkartılarak masanın üzerine konulur. Sarı kalem gösterilerek bu sarı denir. Sonra mavi kapak ve yeşil tahta parçası gösterilerek bu sarı değil denir. Daha sonra sarı kalem gösterilerek bu ne renk diye sorulur, çocuk sarı diye yanıt verirse sevdiği herhangi bir pekiştireç vererek ödüllendirilir. Çocuk yanıt vermezse ya da yanlış yanıt verirse herhangi bir ipucu kullanmadan aynı materyallerle yeniden sunum yapılır.Çocuk ikinci sunumda da yanlış yanıt verirse veya tepkisiz kalırsa aynı setle doğru tepki verinceye kadar öğretime devam edilir.Doğru tepki verdiğinde diğer materyal setine geçilir.Çocuğun doğru tepkileri bütün araç setlerinde ölçütü(3/4 oranında) karşılayıncaya dek öğretime devam edilir.
+
+Öğretim esnasında çocuğun sıkıldığı hissedilirse, yeteri kadar ara verilir ve aradan sonra öğretime devam edilir. Her çalışmadan sonra sarı nesneler çocuğun görebileceği şekilde masanın bir kenarına bırakılır, diğer renkteki nesneler de masanın başka bir yerine konur.
+
+ 9. Oturum
+
+           Kavram: Sarı
+
+           Yöntem: Açık Anlatım Yöntemi(yapılandırılmış dil)
+
+ Amaç: Aynı türde ve ayrı renkte iki nesne arasında, “Sarı renkte olanı göster,”       denildiğinde sarı olanı gösterebilme
+
+Materyal:1.Set:1 adet sarı düğme
+
+1 adet mavi kalem
+
+1 adet kırmızı tahta parçası
+
+1 adet yeşil tabak
+
+2.Set:1 adet sarı kapak
+
+1 adet kahverengi yapboz
+
+1 adet mavi pil
+
+1 adet yeşil kağıt
+
+3.Set:1 adet sarı top
+
+1 adet pembe boncuk
+
+1 adet siyah düğme
+
+1 adet yeşil oyuncak
+
+4.Set:1 adet sarı bebek
+
+1 adet kırmızı toka
+
+1 adet siyah boncuk
+
+1 adet turuncu elişi kağıdı
+
+Uygulama: (1. amaç)Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılır. Önce birinci set kutudan çıkartılıp masanın üzerine konur. Çocuğa, “Seninle bugün sarı rengi çalışacağız,”denir. Çocuğun materyale dokunmasına ve eline almasına 5-6 saniye izin verilir. Sonra çocuktan elini masadan çekmesi istenir.Çocuğa sarı düğme gösterilerek bu sarı denir.Sonra kırmızı tahta parçası  yeşil tabak gösterilerek bu sarı değil denir. Bütün nesneler çocuğun görebileceği ve gösterebileceği aralıklarla yan yana dizilir. Daha sonra çocuğa,’sarı olanı göster diye yönerge verilir ve 2-3 saniye beklenir. Çocuk doğru tepki verirse sevdiği herhangi bir pekiştireç verilir. Sarı olmayanı göster diye ikinci yönerge verilir ve 2-3 saniye beklenir. Çocuk doğru tepki verirse sevdiği herhangi bir pekiştireç verilir. Sarı olmayanı göster diye ikinci yönerge verilir ve 2-3 saniye beklenir. Çocuk sarı olmayanı gösterirse pekiştirilir.
+
+Çocuk yanlış tepki verdiğinde herhangi bir ipucu kullanmadan aynı materyallerle yeniden sunum yapılır. Çocuk ikinci sunumda da yanlış tepki verirse aynı setle doğru tepki verinceye kadar öğretime devam edilir. Doğru tepki verdiğinde diğer materyal setine geçilir. Çocuğun doğru tepkileri bütün araç setlerinde ölçütü(sarı ve sarı olmayanı ¾ oranında)karşılayıncaya dek öğretime devam edilir.
+
+(2. amaç)Masanın üzerindeki bütün materyal setleri kutuya konulur ve birinci set çıkartılarak masanın üzerine konulur. Sarı düğme gösterilerek bu sarı denir. Sonra kırmızı tahta parçası ve yeşil tabak gösterilerek bu sarı değil denir. Daha sonra sarı düğme gösterilerek bu ne renk diye sorulur, çocuk sarı diye yanıt verirse sevdiği herhangi bir pekiştireç vererek ödüllendirilir.Çocuk yanıt vermezse ya da yanlış yanıt verirse herhangi bir ipucu kullanmadan aynı materyallerle yeniden sunum yapılır.Çocuk ikinci sunumda da yanlış yanıt verirse veya tepkisiz kalırsa aynı setle doğru tepki verinceye kadar öğretime devam edilir.Doğru tepki verdiğinde diğer materyal setine geçilir.Çocuğun doğru tepkileri bütün araç setlerinde ölçütü(3/4 oranında) karşılayıncaya dek öğretime devam edilir.
+
+Öğretim esnasında çocuğun sıkıldığı hissedilirse, yeteri kadar ara verilir ve aradan sonra öğretime devam edilir.Her çalışmadan sonra sarı nesneler çocuğun görebileceği şekilde masanın bir kenarına bırakılır,diğer renkteki nesneler de masanın başka bir yerine konur.
+
+                                     Tane Kavramının Öğretimi
+
+Her aşamada dört farklı araç seti bulunur ve sırayla bu setler kullanılır. Çocuk 4 setten oluşan sunumlardan 3 doğru tepki verirse ölçüt karşılanmış olur ve bir sonraki aşamaya geçilir.
+
+Tane kavramının ön koşulları şunlardır:
+
+1.      Dokunarak sayabilme
+
+2.      Ritmik sayabilme
+
+3.      Azlık-çokluk kavramlarını ayırt edebilme
+
+4.      Say, al, ver, göster, işaret et, söyle vb basit yönergelere uyabilme
+
+
+                           TANE KAVRAMININ ÖĞRETİM PLANI
+
+·         Tane kavramını öğretmede kullanılan materyallerin isimleri çocuk tarafından çok iyi bilinmelidir.
+
+·         Yap-göster-söyle basamaklarından oluşan yöntemde öğretim toplam 9 aşamada tamamlanır. Gerekli görülürse “yaz” basamağı da eklenir.
+
+ (Her oturumda başlama ve bitirme tarihleri, oturum süresi belirtilir ve oturum sonunda değerlendirme yapılır. Ayrıca kullanılacak pekiştireçler yazılır.)
+
+                Kavram:2(iki)
+
+1.aşama: Yap-yap
+
+Yöntem: Basamaklandırılmış Yöntem
+
+Amaç: Önüne konulan nesne kümesi içinden, 2 tane alınıp “sen de 2 tane … al,” denildiğinde, istenilen miktardaki nesneyi alabilme.
+
+Materyal:
+
+1.Set: Bir tabakta aynı renkte, tipte ve malzemede 4 adet boncuk…
+
+2.Set: Bir tabakta aynı renkte, tipte ve malzemede 4 adet düğme…
+
+3.Set: Bir tabakta aynı renkte, tipte ve malzemede 4 adet silgi…
+
+4.Set: Bir tabakta aynı renkte, tipte ve malzemede 4 adet kapak…
+Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılar. Boncukların olduğu tabaklardan biri eğitimcinin, diğeri de çocuğun önüne konur. Çocuğa gösterilerek, “Bunlar ne?” diye sorulur. Çocuk doğru tepki verirse, öğretime başlanır. Tabaktan 2 boncuk alınarak, “Ben 2 tane boncuk aldım, sen de 2 tane boncuk al,” diye yönerge verilir. Çocuk tepkisiz kalırsa veya yanlış tepkide bulunursa, sunum yeniden yapılır. Art arda yapılan üç denemede çocuk istendik tepkiyi vermezse, ipuçları kullanılır. Fiziksel yardımla eli tabağa doğru götürülür ve 2 boncuk alması sağlanır. Çocuk bağımsız tepki verinceye kadar aynı setle çalışmaya devam edilir. Çocuğun doğru tepkileri ödüllendirilir. Ölçüt, bağımsız olarak karşılandığında diğer setlerle aynı yöntem kullanılarak çalışılır.
+ 
+               Kavram:2(iki)
+
+2.aşama: Yap-göster
+
+Yöntem: Basamaklandırılmış Yöntem
+
+Amaç: Nesne kümesi içinden, 2 tane alındığında, çocuğun önünde bulunan resimli kartlar işaret edilerek “Ben 2 tane … aldım, sen de kartlar içinde 2 tane … resmi olan kartı göster,” denildiğinde gösterebilme.
+
+Materyal:
+
+1.Set: Bir tabakta aynı renkte, tipte ve malzemede 4 adet boncuk.
+
+1 adet, 2 adet, 3 adet, 4 adet boncuk resmi olan 4 ayrı kart.
+
+2.Set: Bir tabakta aynı renkte, tipte ve malzemede 4 adet düğme.
+
+1 adet, 2 adet, 3 adet, 4 adet düğme resmi olan 4 ayrı kart.
+
+3.Set: Bir tabakta aynı renkte, tipte ve malzemede 4 adet silgi.
+
+1 adet, 2 adet, 3 adet, 4 adet silgi resmi olan 4 ayrı kart.
+
+            4.Set: Bir tabakta aynı renkte, tipte ve malzemede 4 adet kapak.
+
+            1 adet, 2 adet, 3 adet, 4 adet kapak resmi olan 4 ayrı kart.
+Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılar. Boncukların içinde olduğu tabak masanın üzerine konur. Çocuğun dikkati tabağa çekilir. Boncuklar gösterilerek, ‘Bunlar ne?’ diye sorulur. Çocuk “Boncuk” derse, boncuk resimleri alınıp sırayla çocuğun önüne konur. “Bak bunlar da boncuk resimleri,” denir. Çocuğun kartları eline almasına 2-4 saniye izin verilir ve ardından kartlar çocuğun elinden alınıp önüne konulur. Tabaktaki boncuklardan 2 tane alınır. Alınan boncuk ve çocuğun önündeki kartlar gösterilerek, “Ben 2 tane boncuk aldım, sen de bu kartlardan 2 tane boncuk resmi olan kartı göster,” diye yönerge verilir. Çocuk doğru tepki verirse ödüllendirilir, tepkisiz kalırsa veya yanlış tepkide bulunursa, sunum yeniden yapılır. Art arda yapılan üç denemede çocuk istendik tepkiyi vermezse, ipuçları kullanılır. Çocuk bağımsız tepki verinceye kadar aynı setle çalışmaya devam edilir. Çocuğun doğru tepkileri ödüllendirilir. Ölçüt, bağımsız olarak karşılandığında diğer setlerle aynı yöntem kullanılarak çalışılır.
+
+ Kavram:2(iki)
+
+3.aşama: Yap-söyle
+
+Yöntem: Basamaklandırılmış Yöntem
+
+Amaç: Önüne konulan nesne kümesi içinden, 2 tane alınıp “Elimde kaç tane … var?” diye sorulduğunda, “2” veya “2 tane …” diye yanıt verebilme.
+
+Materyal:
+
+1.Set: Bir tabakta aynı renkte, tipte ve malzemede 4 adet boncuk.
+
+2.Set: Bir tabakta aynı renkte, tipte ve malzemede 4 adet düğme.
+
+3.Set: Bir tabakta aynı renkte, tipte ve malzemede 4 adet silgi.
+
+            4.Set: Bir tabakta aynı renkte, tipte ve malzemede 4 adet kapak.
+Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılar. Boncukların içinde olduğu tabak eğitimcinin önünde olacak şekilde masanın üzerine konur. Çocuğa boncuklar gösterilerek, “Bunlar ne?” diye sorulur. Çocuk “Boncuk” diye yanıtlar. Tabaktan 2 tane boncuk alınarak “Elimde kaç tane boncuk var?” diye sorulur. Çocuk “2”, “2 tane” veya “2 boncuk” diye cevaplarsa ödüllendirilir, tepkisiz kalırsa veya yanlış tepkide bulunursa, sunum yeniden yapılır. Art arda yapılan üç denemede çocuk istendik tepkiyi vermezse, ipuçları kullanılır. Çocuk bağımsız tepki verinceye kadar aynı setle çalışmaya devam edilir. Çocuğun doğru tepkileri ödüllendirilir. Ölçüt, bağımsız olarak karşılandığında diğer setlerle aynı yöntem kullanılarak çalışılır.
+
+               Kavram:2(iki)
+
+4.aşama: Göster-yap
+
+Yöntem: Basamaklandırılmış Yöntem
+
+Amaç: 2 adet nesnenin olduğu kart çocuğa gösterilip, “Bu kartta bulunan… sayısı kadar tabaktan… al” denildiğinde önündeki tabakta bulunan nesnelerden bir adet alabilme.
+
+Materyal:
+
+1.Set: Bir tabakta aynı renkte, tipte ve malzemede 4 adet boncuk.
+
+2 adet boncuk resmi olan kart.
+
+2.Set: Bir tabakta aynı renkte, tipte ve malzemede 4 adet düğme.
+
+2 adet düğme resmi olan kart.
+
+3.Set: Bir tabakta aynı renkte, tipte ve malzemede 4 adet silgi.
+
+2 adet silgi resmi olan kart.
+
+            4.Set: Bir tabakta aynı renkte, tipte ve malzemede 4 adet kapak.
+
+            2 adet kapak resmi olan kart.
+Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılar. Boncukların içinde olduğu tabak çocuğun önüne konur. Çocuğun dikkati tabağa çekilir. Boncuklar gösterilerek, “Bunlar ne?” diye sorulur. Çocuk “Boncuk” der.2 tane boncuk resminin olduğu kart çocuğa gösterilerek “Bu kartta bulunan boncuk sayısı kadar tabaktan boncuk al,” diye yönerge verilir. Çocuk doğru tepki verirse ödüllendirilir, tepkisiz kalırsa veya yanlış tepkide bulunursa, sunum yeniden yapılır. Art arda yapılan üç denemede çocuk istendik tepkiyi vermezse, ipuçları kullanılır. Çocuk bağımsız tepki verinceye kadar aynı setle çalışmaya devam edilir. Çocuğun doğru tepkileri ödüllendirilir. Ölçüt, bağımsız olarak karşılandığında diğer setlerle aynı yöntem kullanılarak çalışılır.
+
+               Kavram:2(iki)
+
+5.aşama: Göster-göster
+
+Yöntem: Basamaklandırılmış Yöntem
+
+Amaç: 2 adet nesne resmi olan kart çocuğa gösterilip, “Bu karttaki… sayısı kadar… resmi olan kartı göster” denildiğinde gösterebilme.
+
+Materyal:
+
+1.Set:2 adet boncuk resmi olan kart.
+
+1 adet, 2 adet, 3 adet, 4 adet boncuk resmi olan 4 ayrı kart.
+
+2.Set:2 adet düğme resmi olan kart.
+
+1 adet, 2 adet, 3 adet, 4 adet düğme resmi olan 4 ayrı kart.
+
+3.Set: 2 adet silgi resmi olan kart.
+
+1 adet, 2 adet, 3 adet, 4 adet silgi resmi olan 4 ayrı kart.
+
+            4.Set: 2 adet kapak resmi olan kart.
+
+            1 adet, 2 adet, 3 adet, 4 adet kapak resmi olan 4 ayrı kart.
+Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılar. Farklı sayılarda boncuk resmi olan 4 ayrı kart çocuğun önüne konur. 2 adet boncuk resmi olan kart gösterilip, “Bu kartta olan boncuk sayısı kadar boncuk resmi olan kartı göster” diye yönerge verilir. Çocuk doğru tepki verirse ödüllendirilir, tepkisiz kalırsa veya yanlış tepkide bulunursa, sunum yeniden yapılır. Art arda yapılan üç denemede çocuk istendik tepkiyi vermezse, ipuçları kullanılır. Çocuk bağımsız tepki verinceye kadar aynı setle çalışmaya devam edilir. Çocuğun doğru tepkileri ödüllendirilir. Ölçüt, bağımsız olarak karşılandığında diğer setlerle aynı yöntem kullanılarak çalışılır.
+
+              Kavram:2(iki)
+
+6.aşama: Göster-söyle
+
+Yöntem: Basamaklandırılmış Yöntem
+
+Amaç: 2 adet nesne resmi olan kart çocuğa gösterilip, “Bu kartta kaç tane… var?” diye sorulduğunda, “2” veya “2 tane…” diye cevap verebilme.
+
+Materyal:
+
+1.Set:2 adet boncuk resmi olan kart.
+
+2.Set:2 adet düğme resmi olan kart.
+
+3.Set: 2 adet silgi resmi olan kart.
+
+            4.Set: 2 adet kapak resmi olan kart.
+Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılar. İçinde 2 tane boncuk olan resim çocuğa gösterilip “Bu kartta kaç boncuk var?” diye sorulur. Çocuk “2” veya “2 tane boncuk” diye cevap verirse ödüllendirilir. Tepkisiz kalırsa veya yanlış tepkide bulunursa, sunum yeniden yapılır. Art arda yapılan üç denemede çocuk istendik tepkiyi vermezse, ipuçları kullanılır. Çocuk bağımsız tepki verinceye kadar aynı setle çalışmaya devam edilir. Çocuğun doğru tepkileri ödüllendirilir. Ölçüt, bağımsız olarak karşılandığında diğer setlerle aynı yöntem kullanılarak çalışılır.
+
+              Kavram:2(iki)
+
+7.aşama: Söyle-yap
+
+Yöntem: Basamaklandırılmış Yöntem
+
+Amaç: Önüne konulan nesne kümesi içinden, “iki tane… al,” denildiğinde bir nesneyi alabilme.
+
+Materyal:
+
+1.Set: Bir tabakta aynı renkte, tipte ve malzemede 4 adet boncuk…
+
+2.Set: Bir tabakta aynı renkte, tipte ve malzemede 4 adet düğme…
+
+3.Set: Bir tabakta aynı renkte, tipte ve malzemede 4 adet silgi…
+
+4.Set: Bir tabakta aynı renkte, tipte ve malzemede 4 adet kapak…
+Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılar. Boncukların olduğu tabak masanın üzerine konur. Çocuğa gösterilerek, “Bunlar ne?” diye sorulur. Çocuk “Boncuk” der. Tabak işaret edilerek, “iki boncuk al” diye yönerge verilir. Çocuk doğru tepki verirse ödüllendirilir. Çocuk tepkisiz kalırsa veya yanlış tepkide bulunursa, sunum yeniden yapılır. Art arda yapılan üç denemede çocuk istendik tepkiyi vermezse, ipuçları kullanılır. Çocuk bağımsız tepki verinceye kadar aynı setle çalışmaya devam edilir. Çocuğun doğru tepkileri ödüllendirilir. Ölçüt, bağımsız olarak karşılandığında diğer setlerle aynı yöntem kullanılarak çalışılır.
+   
+               Kavram:2(iki)
+
+8.aşama: Söyle-göster
+
+Yöntem: Basamaklandırılmış Yöntem
+
+Amaç: Önüne konulan nesne resimleri içinden, “2 adet… resmi olan kartı göster,”  diye yönerge verildiğinde gösterebilme.
+
+Materyal:
+
+1.Set: 1 adet, 2 adet, 3 adet, 4 adet boncuk resmi olan 4 ayrı kart.
+
+2.Set: 1 adet, 2 adet, 3 adet, 4 adet düğme resmi olan 4 ayrı kart.
+
+3.Set: 1 adet, 2 adet, 3 adet, 4 adet silgi resmi olan 4 ayrı kart.
+
+            4.Set: 1 adet, 2 adet, 3 adet, 4 adet kapak resmi olan 4 ayrı kart.
+Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılar. Boncuk resimleri olan kartlar masanın üzerine konur. Çocuğa gösterilerek, ‘Bunlar ne?’ diye sorulur. Çocuk ‘Boncuk’ der. Kartlar işaret edilerek,’iki boncuk resmi olan kartı göster’ diye yönerge verilir. Çocuk doğru tepki verirse ödüllendirilir. Çocuk tepkisiz kalırsa veya yanlış tepkide bulunursa, sunum yeniden yapılır. Art arda yapılan üç denemede çocuk istendik tepkiyi vermezse, ipuçları kullanılır. Çocuk bağımsız tepki verinceye kadar aynı setle çalışmaya devam edilir. Çocuğun doğru tepkileri ödüllendirilir. Ölçüt, bağımsız olarak karşılandığında diğer setlerle aynı yöntem kullanılarak çalışılır.
+
+               Kavram:2(iki)
+
+9.aşama: Söyle-göster
+
+Yöntem: Basamaklandırılmış Yöntem
+
+Amaç: Yazılı olarak (rakamla) 2 gösterilip “2 tane… resmi bulunan kartı göster,”  diye yönerge verildiğinde gösterebilme.
+
+Materyal:
+
+1.Set: 1 adet, 2 adet, 3 adet, 4 adet boncuk resmi olan 4 ayrı kart.
+
+“2” rakamı yazılı olan kart.
+
+2.Set: 1 adet, 2 adet, 3 adet, 4 adet düğme resmi olan 4 ayrı kart.
+
+“2” rakamı yazılı olan kart.
+
+3.Set: 1 adet, 2 adet, 3 adet, 4 adet silgi resmi olan 4 ayrı kart.
+
+“2” rakamı yazılı olan kart.
+
+            4.Set: 1 adet, 2 adet, 3 adet, 4 adet kapak resmi olan 4 ayrı kart.
+
+“2” rakamı yazılı olan kart.
+Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılar. Boncuk resimleri olan kartlar masanın üzerine konur. Çocuğa gösterilerek, “Bunlar ne?” diye sorulur. Çocuk ‘Boncuk’ der. “2” rakamı yazılı olan kart çocuğa gösterilerek, “Bu kadar boncuk resmi olan kartı göster,” diye yönerge verilir. Çocuk doğru tepki verirse ödüllendirilir. Çocuk tepkisiz kalırsa veya yanlış tepkide bulunursa, sunum yeniden yapılır. Art arda yapılan üç denemede çocuk istendik tepkiyi vermezse, ipuçları kullanılır. Çocuk bağımsız tepki verinceye kadar aynı setle çalışmaya devam edilir. Çocuğun doğru tepkileri ödüllendirilir. Ölçüt, bağımsız olarak karşılandığında diğer setlerle aynı yöntem kullanılarak çalışılır.
+
+        
+
+       BÜYÜK-KÜÇÜK KAVRAMLARININ ÖĞRETİM PLANI
+
+(Her oturumda başlama ve bitirme tarihleri, oturum süresi belirtilir ve oturum sonunda değerlendirme yapılır. Ayrıca kullanılacak pekiştireçler yazılır.)
+ 
+
+ 1.      Oturum
+
+Kavram: Büyük- küçük
+
+Yöntem: Açık Anlatım Yöntemi
+
+Amaç: İki farklı büyüklükte aynı türde, aynı tip , her bir büyüklükte birer tane nesne arasından büyük olanı gösterebilme.
+
+Materyal: 1. Set: Büyük top, küçük top.
+
+2. Set: Büyük küp, küçük küp.
+
+3. Set: Büyük kavanoz, küçük kavanoz.
+
+4. Set: Büyük bardak, küçük bardak.
+Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılar. Birinci set masanın üzerine konur, çocuğun dikkati materyallere çekilir. Çocuğun materyallere dokunmasına ve eline almasına 5–6 saniye izin verilir. Sonra çocuktan elini masadan çekmesi istenir. Çocuğa büyük top gösterilerek, “Bu büyük” denir, ardından küçük top gösterilerek, “Bu büyük değil” denir. Daha sonra çocuğa, “büyük olanı göster” ,” diye yönerge verilir ve 2–3 saniye beklenir. Çocuk doğru tepki verirse, sevdiği herhangi bir pekiştireç ile ödüllendirilir. “Büyük olmayanı göster” ,” diye ikinci yönerge verilir ve 2–3 saniye beklenir. Çocuk büyük olmayanı gösterirse pekiştirilir.
+        Çocuk yanlış tepkide bulunursa herhangi bir ipucu kullanılmadan aynı materyallerle sunum yeniden yapılır. İkinci sunumda da yanlış tepki verirse, aynı setle doğru tepki verinceye kadar öğretime devam edilir. Çocuk doğru tepki verdiğinde diğer materyal setine geçilir. Çocuğun doğru tepkileri bütün araç setlerinde ölçütü (Büyük ve küçük olmayanları ¾ oranında) karşılayıncaya kadar öğretime devam edilir. Her çalışmadan sonra büyük olan nesneler Çocuğun görebileceği şekilde masanın bir kenarına bırakılır, küçük nesneler de masada başka bir yere konur. Daha sonra aynı işlem basamakları takip edilerek küçük kavramı öğretilir.
+
+
+2.      Oturum
+
+Kavram: Büyük- küçük
+
+Yöntem: Açık Anlatım Yöntemi
+
+Amaç: İki farklı büyüklükte aynı türde, aynı tip , her bir büyüklükte birer tane nesne resmi arasından büyük olanı gösterebilme.
+
+Materyal: 1. Set: Büyük top resmi, küçük top resmi.
+
+2. Set: Büyük fil resmi , küçük fil resmi .
+
+3. Set: Büyük ev resmi, küçük ev resmi .
+
+4. Set: Büyük kalem resmi, küçük kalem resmi.
+ 
+Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılar. Birinci setteki resimli kartlar masanın üzerine konur, çocuğun dikkati resimli kartlara çekilir. Çocuğun resimli kartlara dokunmasına ve eline almasına 5–6 saniye izin verilir. Sonra çocuktan elini masadan çekmesi istenir. Çocuğa büyük top resmi gösterilerek, “Bu büyük” denir, ardından küçük top resmi gösterilerek, “Bu büyük değil” denir. Daha sonra çocuğa, “büyük olanı göster” ,” diye yönerge verilir ve 2–3 saniye beklenir. Çocuk doğru tepki verirse, sevdiği herhangi bir pekiştireç ile ödüllendirilir. “Büyük olmayanı göster” ,” diye ikinci yönerge verilir ve 2–3 saniye beklenir. Çocuk büyük olmayanı gösterirse pekiştirilir.
+       Çocuk yanlış tepkide bulunursa herhangi bir ipucu kullanılmadan aynı materyallerle sunum yeniden yapılır. İkinci sunumda da yanlış tepki verirse, aynı setle doğru tepki verinceye kadar öğretime devam edilir. Çocuk doğru tepki verdiğinde diğer materyal setine geçilir. Çocuğun doğru tepkileri bütün araç setlerinde ölçütü (Büyük ve küçük olmayanları ¾ oranında) karşılayıncaya kadar öğretime devam edilir. Her çalışmadan sonra büyük olan nesnel resimleri çocuğun görebileceği şekilde masanın bir kenarına bırakılır, küçük nesne resimleri de masada başka bir yere konur. Daha sonra aynı işlem basamakları takip edilerek küçük kavramı öğretilir.
+
+
+3.      Oturum
+
+Kavram: Büyük- küçük
+
+Yöntem: Açık Anlatım Yöntemi
+
+Amaç: İki farklı büyüklükte aynı türde, aynı tip , her bir büyüklükten birer tane nesne  arasından büyük olan gösterildiğinde büyük olanı söyleyebilme.
+
+Materyal: 1. Set: Büyük salça kutusu, küçük salça kutusu.
+
+2. Set: Büyük plastik karpuz, küçük plastik karpuz.
+
+3. Set: Büyük tencere, küçük tencere.
+
+4. Set: Büyük cüzdan, küçük cüzdan.
+Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılar. Birinci set masanın üzerine konur, çocuğun dikkati materyallere çekilir. Çocuğun materyallere dokunmasına ve eline almasına 5–6 saniye izin verilir. Sonra çocuktan elini masadan çekmesi istenir. Çocuğa büyük kutu gösterilerek, “Bu büyük” denir, ardından küçük kutu gösterilerek, “Bu büyük değil” denir. Daha sonra çocuğa, “Önündeki nesnelere bak, bunun büyüklüğü buna göre nasıl, söyle ” diye yönerge verilir ve 2–3 saniye beklenir. Çocuk doğru tepki verirse, sevdiği herhangi bir pekiştireç ile ödüllendirilir. “Büyük olmayanı göster” ,” diye ikinci yönerge verilir ve 2–3 saniye beklenir. Çocuk büyük olmayanı gösterirse pekiştirilir.
+        Çocuk yanlış tepkide bulunursa herhangi bir ipucu kullanılmadan aynı materyallerle sunum yeniden yapılır. İkinci sunumda da yanlış tepki verirse, aynı setle doğru tepki verinceye kadar öğretime devam edilir. Çocuk doğru tepki verdiğinde diğer materyal setine geçilir. Çocuğun doğru tepkileri bütün araç setlerinde ölçütü (Büyük ve küçük olmayanları ¾ oranında) karşılayıncaya kadar öğretime devam edilir. Her çalışmadan sonra büyük olan nesneler çocuğun görebileceği şekilde masanın bir kenarına bırakılır, küçük nesneler de masada başka bir yere konur. Daha sonra aynı işlem basamakları takip edilerek küçük kavramı öğretilir.
+ 
+
+4.      Oturum
+
+Kavram: Büyük- küçük
+
+Yöntem: Açık Anlatım Yöntemi
+
+Amaç: İki farklı büyüklükte aynı türde, aynı tip , farklı renkte,  her bir büyüklükten birer tane nesne  arasından büyük olanı gösterilme.
+
+Materyal: 1. Set: Büyük kırmızı top, küçük yeşil top.
+
+2. Set: Büyük mavi balon, küçük sarı balon.
+
+3. Set: Büyük siyah küp, küçük mavi küp.
+
+4. Set: Büyük sarı kaplı defter, küçük yeşil kaplı defter.
+Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılar. Birinci setteki resimli kartlar masanın üzerine konur, çocuğun dikkati resimli kartlara çekilir. Çocuğun resimli kartlara dokunmasına ve eline almasına 5–6 saniye izin verilir. Sonra çocuktan elini masadan çekmesi istenir. Çocuğa büyük kırmızı top resmi gösterilerek, “Bu büyük” denir, ardından küçük yeşil top resmi gösterilerek, “Bu büyük değil” denir. Daha sonra çocuğa, “büyük olanı göster” ,” diye yönerge verilir ve 2–3 saniye beklenir. Çocuk doğru tepki verirse, sevdiği herhangi bir pekiştireç ile ödüllendirilir. “Büyük olmayanı göster” ,” diye ikinci yönerge verilir ve 2–3 saniye beklenir. Çocuk büyük olmayanı gösterirse pekiştirilir.
+          Çocuk yanlış tepkide bulunursa herhangi bir ipucu kullanılmadan aynı materyallerle sunum yeniden yapılır. İkinci sunumda da yanlış tepki verirse, aynı setle doğru tepki verinceye kadar öğretime devam edilir. Çocuk doğru tepki verdiğinde diğer materyal setine geçilir. Çocuğun doğru tepkileri bütün araç setlerinde ölçütü (Büyük ve küçük olmayanları ¾ oranında) karşılayıncaya kadar öğretime devam edilir. Her çalışmadan sonra büyük olan nesneler çocuğun görebileceği şekilde masanın bir kenarına bırakılır, küçük nesneler de masada başka bir yere konur. Daha sonra aynı işlem basamakları takip edilerek küçük kavramı öğretilir.
+ 
+
+5.      Oturum
+
+Kavram: Büyük- küçük
+
+Yöntem: Açık Anlatım Yöntemi
+
+Amaç: İki farklı büyüklükte aynı türde, , farklı renkte,  her bir büyüklükten birer tane nesne  arasından büyük olanı gösterilme.
+
+Materyal: 1. Set: Büyük sarı kamyon resmi, küçük yeşil kamyon resmi.
+
+2. Set: Büyük mavi dolap resmi, küçük kırmızı dolap resmi.
+
+3. Set: Büyük yeşil vazo resmi, küçük turuncu vazo resmi.
+
+4. Set: Büyük mavi kazak resmi, küçük yeşil kazak resmi.
+Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılar. Birinci setteki resimli kartlar masanın üzerine konur, çocuğun dikkati resimli kartlara çekilir. Çocuğun resimli kartlara dokunmasına ve eline almasına 5–6 saniye izin verilir. Sonra çocuktan elini masadan çekmesi istenir. Çocuğa büyük sarı kamyon resmi gösterilerek, “Bu büyük” denir, ardından küçük yeşil kamyon resmi gösterilerek, “Bu büyük değil” denir. Daha sonra çocuğa, “büyük olanı göster” ,” diye yönerge verilir ve 2–3 saniye beklenir. Çocuk doğru tepki verirse, sevdiği herhangi bir pekiştireç ile ödüllendirilir. “Büyük olmayanı göster” ,” diye ikinci yönerge verilir ve 2–3 saniye beklenir. Çocuk büyük olmayanı gösterirse pekiştirilir.
+          Çocuk yanlış tepkide bulunursa herhangi bir ipucu kullanılmadan aynı materyallerle sunum yeniden yapılır. İkinci sunumda da yanlış tepki verirse, aynı setle doğru tepki verinceye kadar öğretime devam edilir. Çocuk doğru tepki verdiğinde diğer materyal setine geçilir. Çocuğun doğru tepkileri bütün araç setlerinde ölçütü (Büyük ve küçük olmayanları ¾ oranında) karşılayıncaya kadar öğretime devam edilir. Her çalışmadan sonra büyük olan nesneler çocuğun görebileceği şekilde masanın bir kenarına bırakılır, küçük nesneler de masada başka bir yere konur. Daha sonra aynı işlem basamakları takip edilerek küçük kavramı öğretilir.
+
+
+6.      Oturum
+
+Kavram: Büyük- küçük
+
+Yöntem: Açık Anlatım Yöntemi
+
+Amaç: İki farklı büyüklükte aynı türde, farklı renkte, her bir büyüklükten birer tane nesne veya nesne resmi yolları arasından büyük olan gösterildiğinde büyük olanı söyleyebilme.
+
+Materyal: 1. Set: Büyük kırmızı elma, küçük yeşil elma.
+
+2. Set: Büyük kırmızı silgi, beyaz silgi.
+
+3. Set: Büyük yeşil otomobil resmi, küçük gri otomobil resmi.
+
+4. Set: Büyük sarı kazak resmi, küçük pembe kazak resmi.
+Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılar. Birinci set masanın üzerine konur, çocuğun dikkati materyallere çekilir. Çocuğun materyallere dokunmasına ve eline almasına 5–6 saniye izin verilir. Sonra çocuktan elini masadan çekmesi istenir. Çocuğa büyük kırmızı elma gösterilerek, “Bu büyük” denir, ardından küçük yeşil elma  gösterilerek, “Bu büyük değil” denir. Daha sonra çocuğa, “Önündeki nesnelere bak, bunun büyüklüğü buna göre nasıl, söyle ” diye yönerge verilir ve 2–3 saniye beklenir. Çocuk doğru tepki verirse, sevdiği herhangi bir pekiştireç ile ödüllendirilir. “Büyük olmayanı göster” ,” diye ikinci yönerge verilir ve 2–3 saniye beklenir. Çocuk büyük olmayanı gösterirse pekiştirilir.
+       Çocuk yanlış tepkide bulunursa herhangi bir ipucu kullanılmadan aynı materyallerle sunum yeniden yapılır. İkinci sunumda da yanlış tepki verirse, aynı setle doğru tepki verinceye kadar öğretime devam edilir. Çocuk doğru tepki verdiğinde diğer materyal setine geçilir. Çocuğun doğru tepkileri bütün araç setlerinde ölçütü (Büyük ve küçük olmayanları ¾ oranında) karşılayıncaya kadar öğretime devam edilir. Her çalışmadan sonra büyük olan nesneler çocuğun görebileceği şekilde
+masanın bir kenarına bırakılır, küçük nesneler de masada başka bir yere konur. Daha sonra aynı işlem basamakları takip edilerek küçük kavramı öğretilir.
+ 
+
+7.      Oturum
+
+Kavram: Büyük- küçük
+
+Yöntem: Açık Anlatım Yöntemi
+
+Amaç: İki farklı büyüklükte farklı türde, her bir büyüklükten birer tane nesne  arasından büyük olanı gösterilme.
+
+Materyal: 1. Set: Büyük top, küçük top.
+
+2. Set: Büyük cüzdan, küçük defter.
+
+3. Set: Büyük salça kutusu, küçük vazo.
+
+4. Set: Büyük yap-boz parçası, küçük makara.
+Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılar. Birinci setteki resimli kartlar masanın üzerine konur, çocuğun dikkati resimli kartlara çekilir. Çocuğun resimli kartlara dokunmasına ve eline almasına 5–6 saniye izin verilir. Sonra çocuktan elini masadan çekmesi istenir. Çocuğa büyük top gösterilerek, “Bu büyük” denir, ardından küçük top gösterilerek, “Bu büyük değil” denir. Daha sonra çocuğa, “büyük olanı göster” ,” diye yönerge verilir ve 2–3 saniye beklenir. Çocuk doğru tepki verirse, sevdiği herhangi bir pekiştireç ile ödüllendirilir. “Büyük olmayanı göster” ,” diye ikinci yönerge verilir ve 2–3 saniye beklenir. Çocuk büyük olmayanı gösterirse pekiştirilir.
+        Çocuk yanlış tepkide bulunursa herhangi bir ipucu kullanılmadan aynı materyallerle sunum yeniden yapılır. İkinci sunumda da yanlış tepki verirse, aynı setle doğru tepki verinceye kadar öğretime devam edilir. Çocuk doğru tepki verdiğinde diğer materyal setine geçilir. Çocuğun doğru tepkileri bütün araç setlerinde ölçütü (Büyük ve küçük olmayanları ¾ oranında) karşılayıncaya kadar öğretime devam edilir. Her çalışmadan sonra büyük olan nesneler çocuğun görebileceği şekilde masanın bir kenarına bırakılır, küçük nesneler de masada başka bir yere konur. Daha sonra aynı işlem basamakları takip edilerek küçük kavramı öğretilir.
+
+
+8.      Oturum
+
+Kavram: Büyük- küçük
+
+Yöntem: Açık Anlatım Yöntemi
+
+Amaç: İki farklı büyüklükte farklı türde, her bir büyüklükten birer tane nesne resmi arasından büyük olanı gösterilme.
+
+Materyal: 1. Set: Büyük ev resmi, küçük otomobil resmi.
+
+2. Set: Büyük kazak resmi, küçük elma resmi.
+
+3. Set: Büyük top resmi, küçük yap-boz parçası.
+
+4. Set: Büyük defter resmi, küçük küp parçası.
+Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılar. Birinci setteki resimli kartlar masanın üzerine konur, çocuğun dikkati resimli kartlara çekilir. Çocuğun resimli kartlara dokunmasına ve eline almasına 5–6 saniye izin verilir. Sonra çocuktan elini masadan çekmesi istenir. Çocuğa büyük ev resmi gösterilerek, “Bu büyük” denir, ardından küçük top gösterilerek, “Bu büyük değil” denir. Daha sonra çocuğa, “büyük olanı göster” ,” diye yönerge verilir ve 2–3 saniye beklenir. Çocuk doğru tepki verirse, sevdiği herhangi bir pekiştireç ile ödüllendirilir. “Büyük olmayanı göster” ,” diye ikinci yönerge verilir ve 2–3 saniye beklenir. Çocuk büyük olmayanı gösterirse pekiştirilir.
+        Çocuk yanlış tepkide bulunursa herhangi bir ipucu kullanılmadan aynı materyallerle sunum yeniden yapılır. İkinci sunumda da yanlış tepki verirse, aynı setle doğru tepki verinceye kadar öğretime devam edilir. Çocuk doğru tepki verdiğinde diğer materyal setine geçilir. Çocuğun doğru tepkileri bütün araç setlerinde ölçütü (Büyük ve küçük olmayanları ¾ oranında) karşılayıncaya kadar öğretime devam edilir. Her çalışmadan sonra büyük olan nesne resimleri çocuğun görebileceği şekilde masanın bir kenarına bırakılır, küçük nesne resimleri de masada başka bir yere konur. Daha sonra aynı işlem basamakları takip edilerek küçük kavramı öğretilir.
+
+                9.      Oturum
+
+Kavram: Büyük- küçük
+
+Yöntem: Açık Anlatım Yöntemi
+
+Amaç: İki farklı büyüklükte farklı türde, her bir büyüklükten birer tane nesne arasından büyük olan gösterildiğinde büyük olanı söyleyebilme.
+
+Materyal: 1. Set: Büyük çorap, küçük eldiven.
+
+2. Set: Büyük tabak, küçük kutu.
+
+3. Set: Büyük ağaç resmi, küçük koyun resmi.
+
+4. Set: Büyük masa resmi, küçük sandalye resmi.
+Uygulama: Çocukla masada karşılıklı oturulur. Materyal setleri eğitimcinin kolaylıkla ulaşabileceği ve çocuğun göremeyeceği bir yere bırakılar. Birinci set masanın üzerine konur, çocuğun dikkati materyallere çekilir. Çocuğun materyallere dokunmasına ve eline almasına 5–6 saniye izin verilir. Sonra çocuktan elini masadan çekmesi istenir. Çocuğa büyük çorap gösterilerek, “Bu büyük” denir, ardından küçük kutu gösterilerek, “Bu büyük değil” denir. Daha sonra çocuğa, “Önündeki nesnelere bak, bunun büyüklüğü buna göre nasıl, söyle ” diye yönerge verilir ve 2–3 saniye beklenir. Çocuk doğru tepki verirse, sevdiği herhangi bir pekiştireç ile ödüllendirilir. “Büyük olmayanı göster” ,” diye ikinci yönerge verilir ve 2–3 saniye beklenir. Çocuk büyük olmayanı gösterirse pekiştirilir.
+         Çocuk yanlış tepkide bulunursa herhangi bir ipucu kullanılmadan aynı materyallerle sunum yeniden yapılır. İkinci sunumda da yanlış tepki verirse, aynı setle doğru tepki verinceye kadar öğretime devam edilir. Çocuk doğru tepki verdiğinde diğer materyal setine geçilir. Çocuğun doğru tepkileri bütün araç setlerinde ölçütü (Büyük ve küçük olmayanları ¾ oranında) karşılayıncaya kadar öğretime devam edilir. Her çalışmadan sonra büyük olan nesne resimleri çocuğun görebileceği şekilde masanın bir kenarına bırakılır, küçük nesne resimleri de masada başka bir yere konur. Daha sonra aynı işlem basamakları takip edilerek küçük kavramı öğretilir.
