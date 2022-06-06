@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "796378433930",
+    "project_id": "flutter-kardesler",
+    "storage_bucket": "flutter-kardesler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796378433930:android:8b3481a022411cfb80e073",
+        "android_client_info": {
+          "package_name": "com.korra.pasta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796378433930-4eccit3t0dh2ice6jkg2n7gb4kgbsu0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACsbW4FcuRLsHjEl5E_zPAu_hcz9uB3Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796378433930-4eccit3t0dh2ice6jkg2n7gb4kgbsu0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
