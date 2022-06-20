@@ -1,0 +1,50 @@
+{
+    "homeTitle" : "Anasayfa",
+    "openChart" : "Grafikler",
+
+    "searchTitle" : "Ara",
+    "searchBar" : "Ara",
+    "noResults" : "Sonuç Bulunamadı",
+
+    "settingsTitle": "Ayarlar",
+
+    "languageSection" : "Diller",
+    "language": "Diller",
+    "dataSection" : "Veri",
+    "exchange" : "Borsa",
+    "topPair"  : "Ana Krypto",
+    "designSection" : "Dizayn",
+    "appTheme" : "Tema",
+
+    "spanish" : "Türkçe",
+    "english" : "İngilizce",
+
+
+    "summary" : "Günlük Bilgiler",
+    "orderbook" : "Siparişler",
+    "trades" : "Alım-Satım",
+    "ohlc" : "OHLC",
+
+    "price" : "Değer",
+    "last" : "Anlık",
+    "high" : "En Yüsek",
+    "low" : "En Düşük",
+    "change" : "Değişim",
+    "volume" : "Hacim",
+    "quoteVolume" : "Alım Hacmi",
+    "time" : "Zaman",
+    "amount" : "Miktar",
+    "bid" : "Teklif",
+    "ask" : "İstek",
+
+    "errorRequestCancelled" : "Request to API server was cancelled",
+    "errorConnectionTimeout" : "Connection timeout with API server",
+    "errorInternetConnection" : "Connection to API server failed due to internet connection",
+    "errorReceiveTimeout" : "Receive timeout in connection with API server",
+    "errorSendTimeout" : "Send timout in connection iwth API server",
+    "errorBadRequest": "Bad request",
+    "errorRequestNotFound": "The requested resource was not found",
+    "errorIntenalServer" : "Internal server error",
+    "errorSomethingWentWrong" : "Something went wrong"
+     
+}

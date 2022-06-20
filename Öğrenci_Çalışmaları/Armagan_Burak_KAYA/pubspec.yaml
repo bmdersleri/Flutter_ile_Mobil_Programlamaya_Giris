@@ -1,0 +1,63 @@
+name: KBT-Crypto
+description: Armağan Burak KAYA.
+
+
+publish_to:
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+  hooks_riverpod: 2.0.0-dev.3
+  flutter_riverpod: 2.0.0-dev.3
+  dio: ^4.0.0
+  flutter_dotenv: ^5.0.0
+  fl_chart: ^0.36.1
+  settings_ui: ^2.0.2
+  auto_size_text: ^3.0.0-nullsafety.0
+  flutter_secure_storage: ^5.0.2
+  easy_localization: ^3.0.0
+  freezed_annotation:
+  flutter_candlesticks:
+
+  mockito: ^5.0.9
+
+dev_dependencies:
+  integration_test:
+    sdk: flutter
+  flutter_test:
+    sdk: flutter
+  http_mock_adapter: ^0.3.2
+  build_runner:
+  freezed:
+  json_serializable:
+  flutter_launcher_icons: ^0.9.0
+  flutter_native_splash: ^1.1.8+4
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/icon.png"
+  image_path_ios: "assets/icon/icon_ios.png"
+
+flutter_native_splash:
+  color: "#3D3D3D"
+  image: assets/icon/icon.png
+  color_dark: "#131313"
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/translations/
+    - assets/icon/icon.png
+    - .env
+
